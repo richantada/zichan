@@ -1,0 +1,1339 @@
+# simpan.cc hanya menyediakan tempat untuk menyimpan konten playlist.
+# Melanggar hak cipta kamu? Kirim email ke nanank@macan.live untuk menghilangkannya.
+# Infringing your rights? Send an email to nanank@macan.live to remove it.
+
+###############################ARROW S8#############################
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Arrow_season_8.jpg/220px-Arrow_season_8.jpg" group-title="ARROW S8",Arrow S8 (2019) : Episode 1
+https://www.googleapis.com/drive/v3/files/1ABKCvceTFTNVYL8ggfdXMk0jFSkek02U?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Arrow_season_8.jpg/220px-Arrow_season_8.jpg" group-title="ARROW S8",Arrow S8 (2019) : Episode 2
+https://www.googleapis.com/drive/v3/files/1Ub2MbGc7ERzfiXE0OxlgWllUS0hvor9m?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Arrow_seVason_8.jpg/220px-Arrow_season_8.jpg" group-title="ARROW S8",Arrow S8 (2019) : Episode 3
+https://www.googleapis.com/drive/v3/files/1AbivHhmxjMizKxCF4YbVppjNxh-npQ35?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Arrow_season_8.jpg/220px-Arrow_season_8.jpg" group-title="ARROW S8",Arrow S8 (2019) : Episode 4
+https://www.googleapis.com/drive/v3/files/122UpxbL-0R82OnsaXbi1fXcERDTE5VZD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Arrow_season_8.jpg/220px-Arrow_season_8.jpg" group-title="ARROW S8",Arrow S8 (2019) : Episode 5
+https://www.googleapis.com/drive/v3/files/1f5-1y2umw1nkEjDZn7GiupAJl7ehepmd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Arrow_season_8.jpg/220px-Arrow_season_8.jpg" group-title="ARROW S8",Arrow S8 (2019) : Episode 6
+https://www.googleapis.com/drive/v3/files/1OecxN9miWqpqlIyhJySF6cVJ2gM0yFCx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Arrow_season_8.jpg/220px-Arrow_season_8.jpg" group-title="ARROW S8",Arrow S8 (2019) : Episode 7
+https://www.googleapis.com/drive/v3/files/1UjGJ44pl_0vtEcI5PL2LMi1rTS0zr_FI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Arrow_season_8.jpg/220px-Arrow_season_8.jpg" group-title="ARROW S8",Arrow S8 (2019) : Episode 8
+https://www.googleapis.com/drive/v3/files/1cmoxj_VgDFyWQNL5dx1lvH4Is9BwCO5f?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Arrow_season_8.jpg/220px-Arrow_season_8.jpg" group-title="ARROW S8",Arrow S8 (2019) : Episode 9
+https://www.googleapis.com/drive/v3/files/15IVXXS9jEuB7bAIbc6ZnCdfR72ZTSjKu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Arrow_season_8.jpg/220px-Arrow_season_8.jpg" group-title="ARROW S8",Arrow S8 (2019) : Episode 10
+https://www.googleapis.com/drive/v3/files/1KXFiUw5PAT51rC8WUHCIEy2iHS3VE21A?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+
+
+
+
+
+
+###########################################X-men ZI ##############################################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//2mtQwJKVKQrZgTz49Dizb25eOQQ.jpg" group-title="X-men ZI", X-men (2000)
+http://vodme.orangbiasa.workers.dev/X-Men/1.%2520X.Men.2000.BluRay.720p.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//aahr1uIPrEej8q4baE1RYXOXwFB.jpg" group-title="X-men ZI", X-men 2 : United (2003)
+http://vodme.orangbiasa.workers.dev/X-Men/2.%2520X-men.2.2003.720p.Bluray.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//3tP4r47v8v6mEj5X5RuG9y8Frbh.jpg" group-title="X-men ZI", The Last Stand (2006)
+http://vodme.orangbiasa.workers.dev/X-Men/3.%2520X.Men.The.L4st.St4nd.2006.BluRay.720p.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//mQglrQzgZT0Oj9cQYPsLI8dsEqB.jpg" group-title="X-men ZI", X-men Origins : Wolverine (2009)
+http://vodme.orangbiasa.workers.dev/X-Men/4.%2520X.Men.Origins.Wolverine.2009.BluRay.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//8T1g9A31xolqkHQfcvIW0Px2Fb2.jpg" group-title="X-men ZI", First Class (2011)
+http://vodme.orangbiasa.workers.dev/X-Men/5.%2520X.Men.F1rst.Cl4ss.2011.BluRay.720p.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//fvNIRADfDNihVNWx2JvBsaPYUow.jpg" group-title="X-men ZI", The Wolverine (2013)
+http://vodme.orangbiasa.workers.dev/X-Men/6.%2520The.Wolv3rine.2013.BluRay.720p.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//bvN8iUpHyBIvniUk4e52SUZMA7Z.jpg" group-title="X-men ZI", Days Of Future Past (2014)
+http://vodme.orangbiasa.workers.dev/X-Men/7.%2520X-Men.D4ys.0f.Future.P4st.2014.720p.Bluray.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//2mtQwJKVKQrZgTz49Dizb25eOQQ.jpg" group-title="X-men ZI", Apocalypse (2016)
+http://vodme.orangbiasa.workers.dev/X-Men/8.%2520X-Men.Apoc4lypse.2016.720p.BluRay.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//fnbjcRDYn6YviCcePDnGdyAkYsB.jpg" group-title="X-men ZI", Logan (2017)
+http://vodme.orangbiasa.workers.dev/X-Men/9.%2520Logan.2017.BluRay.mp4
+
+
+
+
+
+
+
+
+######################################### VOD MIX ZI#################################
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BODRiOTZjZjMtNGJiMy00NGM2LWI3YjQtOWQ0OTc3ZDNkZjViXkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_.jpg" group-title="VOD MIX ZI",Rambo: Last Blood (2019)
+https://zichannels.my.id/vodzi/rambolastblood2019
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BMTI5Mjg1MzM4NF5BMl5BanBnXkFtZTcwNTAyNzUzMw@@._V1_.jpg" group-title="VOD MIX ZI",Rambo (2008)
+https://zichannels.my.id/vodzi/ramboextended2008
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BMTUyMjEzNjA5NF5BMl5BanBnXkFtZTgwOTk5MTYyMTE@._V1_.jpg" group-title="VOD MIX ZI",Journey To The South Pacific (2013)
+https://zichannels.my.id/vodzi/journeypacific2013
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/2/20/Batman_v_Superman_poster.jpg" group-title="VOD MIX ZI",Batman v Superman: Dawn of Justice (2016)
+https://zichannels.my.id/vodzi/batmanvssuperman2016
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/3/3c/Fairy_Tail_Dragon_Cry_Poster.jpg" group-title="VOD MIX ZI",Dragon Cry (2017)
+http://zichannels.my.id/url/dragoncry2017
+
+#EXTINF:-1 logo="https://www.petelagi.com/wp-content/uploads/2017/11/Oceans-Thirteen.jpg" group-title="VOD MIX ZI",Ocean’s Passenger (2016)
+http://zichannels.my.id/url/oceanpassenger2016
+
+#EXTINF:-1 logo="https://assets-a1.kompasiana.com/items/album/2018/11/18/kaskuscoid-5bf1576a12ae945ea25d4512.jpeg" group-title="VOD MIX ZI",Ocean’s Eight (2018)
+https://www.googleapis.com/drive/v3/files/1qiTdAWQIwMnDlNogmrRU-sLKIRwUQNPn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BY2Q1N2QwODctZTA2Ny00M2I5LTk2ZDgtY2RiMDc1YTRhYmRhXkEyXkFqcGdeQXVyNzA3ODUyNzY@._V1_.jpg" group-title="VOD MIX ZI",Die Hard 1 (1988)
+https://zichannels.my.id/vodzi/diehard1988
+
+#EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/51a79U0R3kL._AC_.jpg" group-title="VOD MIX ZI", Die Hard 2 (1990)
+https://zichannels.my.id/vodzi/diehard1990
+
+#EXTINF:-1 logo="https://cloud.filmfed.com/movies/posters/l_7486e57e-d7ea-4b57-8993-a1c92178f5fe.jpg" group-title="VOD MIX ZI",Die Hard: With a Vengeance  3 (1995)
+https://zichannels.my.id/vodzi/diehard1995
+
+#EXTINF:-1 logo="https://jenreviews.files.wordpress.com/2013/02/die-hard-4.jpg" group-title="VOD MIX ZI", Live Free or Die Hard 4 (2007)
+https://www.googleapis.com/drive/v3/files/1In0gEnLbgOGHaC-vWvsYrCbti8y6xLxn?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/1/19/A_Good_Day_to_Die_Hard.jpg" group-title="VOD MIX ZI", A Good Day to Die Hard 5 (2013)
+https://zichannels.my.id/vodzi/gooddaydiehard2013
+
+#EXTINF:-1 logo="https://image.tmdb.org/t/p/w500/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg" group-title="VOD MIX ZI", Zombieland (2009)
+https://zichannels.my.id/vodzi/zombieland2009
+
+#EXTINF:-1 logo="https://nontonbioskop21.cc/wp-content/uploads/2019/12/Zombieland-Double-Tap-2019-1-152x228.jpg" group-title="VOD MIX ZI", Zombieland Double Tap (2019)
+https://www.googleapis.com/drive/v3/files/1IKx1zo0wpCsyYAQXslGsKpPAXlD2RVPU?alt=media&key=
+
+#EXTINF:-1 logo="https://3.bp.blogspot.com/-aJztlouufBU/TdkygJJDtpI/AAAAAAAAApw/t7qbUJ-Q3iY/s400/MATRIX.jpg" group-title="VOD MIX ZI", The Matrix (1999)
+http://zichannels.my.id/url/thematrix1999
+
+#EXTINF:-1 logo="https://3.bp.blogspot.com/-cjtSiBxO4lk/Wm-vzBsbykI/AAAAAAAARKg/fm7odIIUk_gJ9D99SQe8SwBf6hEdWR0jQCLcBGAs/s1600/destrfxdty.jpg" group-title="VOD MIX ZI", The Matrix Revolutions (2003)
+http://zichannels.my.id/url/thematrixrevolutions2003
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BYzQxNmI4ODMtZTA1YS00OTBlLTg3NWUtMjA2ODkwYjRmMWRkXkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_SY1000_CR0,0,666,1000_AL_.jpg" group-title="VOD MIX ZI", The Matrix Reloaded (2003)
+http://zichannels.my.id/url/thematrixreloaded2003
+
+#EXTINF:-1 logo="https://f.ptcdn.info/245/004/000/1366256631-o.jpg" group-title="VOD MIX ZI",Hello Stranger (2010)
+https://zichannels.my.id/vodzi/hellostranger2010
+
+#EXTINF:-1 tvg-logo="https://nontonbioskop21.cc/wp-content/uploads/2018/03/l8RKDgjl9co0IgFZblxhtIOi5Uj-152x228.jpg" group-title="VOD MIX ZI",The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)
+https://zichannels.my.id/vodzi/hechroniclesnarnia2005
+
+#EXTINF:-1 tvg-logo="https://nontonbioskop21.cc/wp-content/uploads/2017/05/mEHd5n927ifJEODgbtC09Faqwcg-152x228.jpg" group-title="VOD MIX ZI",The Chronicles of Narnia: Prince Caspian (2008)
+https://zichannels.my.id/vodzi/hechroniclesnarnia2008
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/_pWMQlhklQAY/TP0gfLfj61I/AAAAAAAAALw/Tc-tsB3W8Ak/s1600/chronicles_of_narnia_the_voyage_of_the_dawn_treader_ver9.jpg" group-title="VOD MIX ZI",The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)
+https://zichannels.my.id/vodzi/hechroniclesnarnia2010
+
+#EXTINF:-1 tvg-logo="https://nontonbioskop21.cc/wp-content/uploads/2018/01/n8V09dDc02KsSN6Q4hC2BX6hN8X-152x228.jpg" group-title="VOD MIX ZI",Star Wars: Episode I – The Phantom Menace (1999)
+https://zichannels.my.id/vodzi/starwars1999
+
+#EXTINF:-1 tvg-logo="https://nontonbioskop21.cc/wp-content/uploads/2018/01/2vcNFtrZXNwIcBgH5e2xXCmVR8t-152x228.jpg" group-title="VOD MIX ZI",Star Wars: Episode II – Attack of the Clones (2002)
+https://zichannels.my.id/vodzi/starwars2002
+
+#EXTINF:-1 tvg-logo="https://s1.bukalapak.com/img/67388315102/original/data.jpeg" group-title="VOD MIX ZI",Star Wars: Episode IX – The Rise of Skywalker (2019)
+https://www.googleapis.com/drive/v3/files/13SLI0iADBd9_kPsymWdC3swEsl54J_Us?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/s5HQf2Gb3lIO2cRcFwNL9sn1o1o.jpg" group-title="VOD MIX ZI",Transformer The Last Knight (2017)
+https://zichannels.my.id/vodzi/transformer2017
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EDnkuOMUYAAD73u.jpg" group-title="VOD MIX ZI",Terminator: Dark Fate (2019)
+https://snowy-frost-807f.orangbiasa.workers.dev/VOD%2520MIX/VOD%2520MIX%2520ZI/NB21.Terminator.Dark.Fate.2019.BluRay.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/dozJ-8sH1vTY04muDPQPO0BMrmw=/640x853/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2965690/original/034559600_1573607606-Charlies_Poster2.jpg" group-title="VOD MIX ZI",Charlie’s Angels (2019)
+http://zichannels.my.id/url/charliesangels2019
+
+#EXTINF:-1 tvg-logo="https://dealsareus.ca/images/thumbs/0136978_dora-and-the-lost-city-of-gold-dvd_500.jpeg" group-title="VOD MIX ZI",Dora and the Lost City of Gold (2019)
+https://snowy-frost-807f.orangbiasa.workers.dev/VOD%2520MIX/VOD%2520MIX%2520ZI/NB21.Dora.and.the.Lost.City.of.Gold.2019.BluRay.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2020/01/47MDU-DVD-2D-Image-600x849.jpg" group-title="VOD MIX ZI",47 Meters Down: Uncaged (2019)
+http://zichannels.my.id/url/47meters2019
+
+#EXTINF:-1 tvg-logo="https://nontonbioskop21.cc/wp-content/uploads/2017/10/qTC98aqIJltte2SBnRTq1CsJL1D-152x228.jpg" group-title="VOD MIX ZI",Detective Conan: Crimson Love Letter (2017)
+http://zichannels.my.id/url/detectiveconancrimson2017
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61zgnmkJFDL._AC_SL1000_.jpg" group-title="VOD MIX ZI",Dark Phoenix (2019)
+http://zichannels.my.id/url/darkphoenix2019
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Doraemon_movie_2019.jpeg/220px-Doraemon_movie_2019.jpeg" group-title="VOD MIX ZI",Doraemon: Nobita’s Chronicle of the Moon Exploration (2019)
+https://snowy-frost-807f.orangbiasa.workers.dev/VOD%2520MIX/VOD%2520MIX%2520ZI/NB21.Doraemon.Nobitas.Chronicle.of.the.Moon.Exploration.2019.BluRay.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/vgpXmVaVyUL7GGiDeiK1mKEKzcX.jpg" group-title="VOD MIX ZI",Jumanji (1995)
+https://snowy-frost-807f.orangbiasa.workers.dev/VOD%2520MIX/VOD%2520MIX%2520ZI/NB21.Jumanji.1995.REMASTERED.BluRay.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/22hqf97LadMvkd4zDi3Bq25xSqD.jpg" group-title="VOD MIX ZI",Jumanji: Welcome To The Jungle (2017)
+http://zichannels.my.id/url/jumanjijungle2017
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg" group-title="VOD MIX ZI",Jumanji The Next Level (2019)
+http://zichannels.my.id/url/jumanjithenextlevel2019
+
+#EXTINF:-1 tvg-logo="https://nb21.live/wp-content/uploads/2018/01/jjBgi2r5cRt36xF6iNUEhzscEcb-152x228.jpg" group-title="VOD MIX ZI",Jurassic World (2015)
+http://zichannels.my.id/url/jurassicworld2015
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/c9XxwwhPHdaImA2f1WEfEsbhaFB.jpg" group-title="VOD MIX ZI",Jurassic World Fallen Kingdom (2018)
+http://zichannels.my.id/url/jurassicworldfallenkingdom2018
+
+#EXTINF:-1 tvg-logo="https://www.margaretriver.com/wp-content/uploads/2020/01/MV5BMTYzY2U0NjctNDJkNS00MmE3LWFiZGQtZjllZTIzYTQ4ODJkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg" group-title="VOD MIX ZI",Abominable (2019)
+http://zichannels.my.id/url/abominable2019
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/idiv0IxVhVSDW8cWxfprYyY5Yev.jpg" group-title="VOD MIX ZI",Pompei (2014)
+http://zichannels.my.id/url/pompeii2014
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Sonic_the_Hedgehog_poster.jpg" group-title="VOD MIX ZI",Sonic The Hedgehog (2020)
+http://zichannels.my.id/url/sonicthehedgehog2020
+
+#EXTINF:-1 tvg-logo="https://www.layar.id/wp-content/uploads/2020/01/1-poster-1.jpg" group-title="VOD MIX ZI",NiNoKuni(2019)
+http://zichannels.my.id/url/ninokuni2019
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/db32LaOibwEliAmSL2jjDF6oDdj.jpg" group-title="VOD MIX ZI",Star Wars The Rise Of Skywalker (2019)
+http://zichannels.my.id/url/starwarstheskywalkers2019
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/The_Great_Wall_%28film%29.png" group-title="VOD MIX ZI",The Great Wall (2016)
+http://zichannels.my.id/url/thegreatwall2016
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Baywatch_poster.jpg" group-title="VOD MIX ZI",Baywatch (2017)
+http://zichannels.my.id/url/baywatch2017
+
+#EXTINF:-1 tvg-logo="https://nb21.live/wp-content/uploads/2018/01/3dIZ049AxmvrvNiXKPc36YNum7g-152x228.jpg" group-title="VOD MIX ZI",Death Race (2008)
+http://zichannels.my.id/url/deathrace2008
+
+#EXTINF:-1 tvg-logo="https://nb21.live/wp-content/uploads/2018/01/5ARRXaWPgtIT9qKl8Db3MNuGvo3-152x228.jpg" group-title="VOD MIX ZI",Death Race 2 (2010)
+http://zichannels.my.id/url/deathrace2010
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGQwZWFmMzYtMTE3MC00NGY1LWFmMGItZTc3MzhmOTQ2ODFjXkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_.jpg" group-title="VOD MIX ZI",Death Race 3 Inferno (2013)
+http://zichannels.my.id/url/deathraceinferno2013
+
+#EXTINF:-1 tvg-logo="https://nb21.live/wp-content/uploads/2018/02/h4CrVSJO8G2xRFgkxjPX8LCLzCk-152x228.jpg" group-title="VOD MIX ZI",Death Race: Beyond Anarchy (2018)
+http://zichannels.my.id/url/deathracebeyondanarchy2018
+
+#EXTINF:-1 tvg-logo="https://nb21.live/wp-content/uploads/2020/05/rVKK2DcZy5IecrSbLZVxT4ch0Hw-152x228.jpg" group-title="VOD MIX ZI",Fast and Fierce: Death Race (In the Drift) (2020)
+http://zichannels.my.id/url/deathrace2020
+
+#EXTINF:-1 tvg-logo="https://d1w8cc2yygc27j.cloudfront.net/6280170057362467821/122010278868919792.jpg" group-title="VOD MIX ZI",Godzilla King The Of Monster (2019)
+https://www.googleapis.com/drive/v3/files/10EJovh9dqDMaMpWqbRTLdwiW-euH7MrY?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Dragon_Quest_Your_Story_poster.jpg" group-title="VOD MIX ZI",Dragon Quest: Your Story (2019) 
+http://zichannels.my.id/url/dragonquest2019
+
+
+
+
+
+
+
+
+
+##########################################################VOD MIX ZI 2 ###############################################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//3iYQTLGoy7QnjcUYRJy4YrAgGvp.jpg" group-title="VOD MIX ZI 2", Aladdin (2019)
+http://zichannels.my.id/url/aladdin2019
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81X0Jw32CEL._SL1500_.jpg" group-title="VOD MIX ZI 2", Romulus Remus The First King (2019)
+http://zichannels.my.id/url/romulusremus2019
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//tWqifoYuwLETmmasnGHO7xBjEtt.jpg" group-title="VOD MIX ZI 2", Beauty And The Beast (2017)
+http://zichannels.my.id/url/beautyandthebeast2017
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//h4VB6m0RwcicVEZvzftYZyKXs6K.jpg" group-title="VOD MIX ZI 2", Birds Of Prey (2020)
+https://snowy-frost-807f.orangbiasa.workers.dev/VOD%202020/NB21.Birds.of.Prey.And.the.Fantabulous.Emancipation.of.One.Harley.Quinn.2020.BluRay.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//bFaxg006Dt6J1k7qa7a5YuqbAhe.jpg" group-title="VOD MIX ZI 2", Blade Of The Immortal (2017)
+http://zichannels.my.id/url/bladeoftheimmortal2017
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//gmt3HRRgtsio4nRpaHZVKOTwH8W.jpg" group-title="VOD MIX ZI 2", Dragonheart : Vengeance (2020)
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//2kNnf7BwRCEm4bcFkdiE0T4U25s.jpg" group-title="VOD MIX ZI 2", Guns Akimbo (2019)
+https://www.googleapis.com/drive/v3/files/1sB7DG3GITrjiMlXLGj4uA229u2nlnxJR?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//ggTTUXZg7trvAhsVj3eyd65bAnh.jpg" group-title="VOD MIX ZI 2", IP Man 1 (2008)
+http://zichannels.my.id/url/ipman12008
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//yB5v6wRhIoZxlDvCFFCQhUNezDY.jpg" group-title="VOD MIX ZI 2", IP Man 2 (2010)
+http://zichannels.my.id/url/ipman22010
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//7iMEXaYKJRfAYU2CjEQSWCeshI5.jpg" group-title="VOD MIX ZI 2", IP Man 3 (2015)
+http://zichannels.my.id/url/ipman32015
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//b5cz6BoyHrgBnhfDHOW5hXRWbln.jpg" group-title="VOD MIX ZI 2", IP Man 4 (2019)
+http://zichannels.my.id/url/ipman42019
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//7GsM4mtM0worCtIVeiQt28HieeN.jpg" group-title="VOD MIX ZI 2", Jojo Rabbit (2019)
+https://www.googleapis.com/drive/v3/files/1gGxXAZZnqXnIHunqBMgi1-488B5vzEhO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//udDclJoHjfjb8Ekgsd4FDteOkCU.jpg" group-title="VOD MIX ZI 2", Joker (2019)
+https://www.googleapis.com/drive/v3/files/1J0w57NkwqZvmCRFUaNtUbBOlIagoS0JF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//22hqf97LadMvkd4zDi3Bq25xSqD.jpg" group-title="VOD MIX ZI 2", Jumanji: Welcome to the Jungle (2017)
+http://zichannels.my.id/url/jumanjijungle2017
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg" group-title="VOD MIX ZI 2", Jumanji : The Next Level (2019)
+http://zichannels.my.id/url/jumanjithenextlevel2019
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//pThyQovXQrw2m0s9x82twj48Jq4.jpg" group-title="VOD MIX ZI 2", Knives Out (2019)
+https://www.googleapis.com/drive/v3/files/1O_snqLZ1Dyqmi_VPny6OJ_wQxcj76DaY?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//pHlRr2MfjK77VIIAO7p0R4jhsJI.jpg" group-title="VOD MIX ZI 2", Okja (2017)
+http://zichannels.my.id/url/okja2017
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg" group-title="VOD MIX ZI 2", Once Upon a Time in Hollywood (2019)
+http://zichannels.my.id/url/onceuponatime2019
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//5WClpSPw5v7daTErjmdMeK8T44x.jpg" group-title="VOD MIX ZI 2", Pacific Rim (2013)
+https://www.googleapis.com/drive/v3/files/1fbpG0eXKp6E2cns4pPPwujzBVGgsv26h?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//v5HlmJK9bdeHxN2QhaFP1ivjX3U.jpg" group-title="VOD MIX ZI 2", Pacific Rim : Uprising (2018)
+https://www.googleapis.com/drive/v3/files/18fFWXN5hJU1ipqqlKkXlsKLAQThuLqby?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//brzpTyZ5bnM7s53C1KSk1TmrMO6.jpg" group-title="VOD MIX ZI 2", Percy Jackson And The Olympians : The Lightning Thief (2010)
+http://zichannels.my.id/url/percyjacksontheolympians2010
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//uoXZOT9dGDtrZNgOSOOKOXlV4XT.jpg" group-title="VOD MIX ZI 2", Resident Evil (2002)
+http://zichannels.my.id/url/residentevil2002
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//yzNQSLlZb7NAkA4C5uADfNDJ7hm.jpg" group-title="VOD MIX ZI 2", Resident Evil : Apocalypse (2004)
+http://zichannels.my.id/url/residentevil2004
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//6yaLr7Ymg5cvbtSVi5hHwBKx35I.jpg" group-title="VOD MIX ZI 2", Resident Evil : Extenstion (2007)
+http://zichannels.my.id/url/residentevil2007
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//3CSQS5AX1FpOOaAv9RBmYGAvGXC.jpg" group-title="VOD MIX ZI 2", Resident Evil : AfterLife (2010)
+http://zichannels.my.id/url/residentevil2010
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//ohdUDWVlcbuWphaLu6wS91xdJ73.jpg" group-title="VOD MIX ZI 2", Resident Evil : Retribution (2012)
+http://zichannels.my.id/url/residentevil2012
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//7glPlA0xPpxPxBu0TnY4ulQVCV1.jpg" group-title="VOD MIX ZI 2", Resident Evil : The Final Chapter (2016)
+http://zichannels.my.id/url/residentevil2016
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//sN7qH8ynEmcodtgPBwKyd2VbFr6.jpg" group-title="VOD MIX ZI 2", Secret Zoo (2020)
+http://zichannels.my.id/url/secretzoo2020
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//xnopI5Xtky18MPhK40cZAGAOVeV.jpg" group-title="VOD MIX ZI 2", Shazam (2019)
+http://zichannels.my.id/url/shazam2019
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg" group-title="VOD MIX ZI 2", Sonic the Hedgehog (2020)
+http://zichannels.my.id/url/sonicthehedgehog2020
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//wxPhn4ef1EAo5njxwBkAEVrlJJG.jpg" group-title="VOD MIX ZI 2", The Hunt (2020)
+http://zichannels.my.id/url/thehunt2020
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg" group-title="VOD MIX ZI 2", The Irishman (2019)
+http://zichannels.my.id/url/theirishman2019
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg" group-title="VOD MIX ZI 2", The Meg (2018)
+http://zichannels.my.id/url/themeg2018
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//vtQ8BS9htQ5TEVk3WDvnJFPOQdo.jpg" group-title="VOD MIX ZI 2", The Platform (2019)
+https://www.googleapis.com/drive/v3/files/1UVhZjgACSId0Wb3hynj_f2CMcql5z_ZK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//fL53ZhqumSRSFZfIrHILxTOG1yj.jpg" group-title="VOD MIX ZI 2", The Professionals (2016)
+https://www.googleapis.com/drive/v3/files/1a1zyTq9mFnr7Xqg_4G-cHFRsDWefdLF6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//4d4mTSfDIFIbUbMLUfaKodvxYXA.jpg" group-title="VOD MIX ZI 2", The Two Popes (2019)
+http://zichannels.my.id/url/thetowpopes2019
+
+#EXTINF:-1 tvg-logo="https://nontonbioskop21.in/wp-content/uploads/2017/12/53Tjv28KGP7ZZh7XqTer90t6tMZ-152x228.jpg" group-title="VOD MIX ZI 2", Tokyo Goul (2017)
+http://zichannels.my.id/url/tokyoghoul2017
+
+#EXTINF:-1 tvg-logo="https://nontonbioskop21.in/wp-content/uploads/2020/02/8kpk4cRCjQJBrb5qevE7FcCdjKf-152x228.jpg" group-title="VOD MIX ZI 2", Tokyo Goul S (2019)
+https://www.googleapis.com/drive/v3/files/1R791Oii0pNYO9bEJz8nOKdCw-2YxoEU8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//3Rr0cXFjJ7GVvtaQKmFSMXHG9yr.jpg" group-title="VOD MIX ZI 2", Twilight (2008)
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//j5jM5pq78ObAXX1WhTsb115EkLl.jpg" group-title="VOD MIX ZI 2", The Twilight Saga: New Moon (2009)
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//sOpCY4by0bkEu9LbVXVCOpWWKzF.jpg" group-title="VOD MIX ZI 2", The Twilight Saga: Eclipse (2010)
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg" group-title="VOD MIX ZI 2", Venom (2018)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+####################################VOD MARVEL ZI##########################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//78lPtwv72eTNqFW9COBYI0dWDJa.jpg" group-title="VOD MARVEL ZI", Iron Man (2008)
+http://vodme.orangbiasa.workers.dev/MARVEL/%5Bkawanfilm21%5D-Iron.M4n.2008.BluRay.480p-%5BFilmkocak.com%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg" group-title="VOD MARVEL ZI", Iron Man 2 (2010)
+http://vodme.orangbiasa.workers.dev/MARVEL/720p.NB21.Iron.Man.2.2010.BluRay.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg" group-title="VOD MARVEL ZI", Iron Man 3 (2013)
+http://vodme.orangbiasa.workers.dev/MARVEL/NB21.Iron.Man.3.2013.REMASTERED.BluRay.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//vcFeElC8eXI668WSIxcDNkJSBxv.jpg" group-title="VOD MARVEL ZI", The Incredible Hulk (2008)
+http://vodme.orangbiasa.workers.dev/MARVEL/%5Bkawanfilm21%5D-720p.The.Incr3d1ble.Hulk.2008.BluRay-%5BFilmkocak.com%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg" group-title="VOD MARVEL ZI", Thor (2011)
+http://vodme.orangbiasa.workers.dev/MARVEL/%5B720p%5DThor.2011.UHD.Bluray.MELONGFILM.in.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg" group-title="VOD MARVEL ZI", Thor : The Dark World (2013)
+http://vodme.orangbiasa.workers.dev/MARVEL/%5B720p%5DThor.The.Dark.World.2013.UHD.BluRay.MELONGFILM.in.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg" group-title="VOD MARVEL ZI", Thor : Ragnarok (2017)
+http://vodme.orangbiasa.workers.dev/MARVEL/%5B720p%5DThor.Ragnarok.2017.UHD.BluRay.MELONGFILM.in.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//RYMX2wcKCBAr24UyPD7xwmjaTn.jpg" group-title="VOD MARVEL ZI", The Avengers (2012)
+https://www.googleapis.com/drive/v3/files/1dcwQ2vhP7S53t48yMv5jC8oCBibGeg6r?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg" group-title="VOD MARVEL ZI", Avengers : Age of Ultron (2015)
+https://www.googleapis.com/drive/v3/files/1V1HQsXkoIw-uj-oZVwkVv_6Sdxr8wIhL?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//7WsyChQLEftFiDOVTGkv3hFpyyt.jpg" group-title="VOD MARVEL ZI", Avengers : Infinity War (2018)
+https://www.googleapis.com/drive/v3/files/10xYJq9rVWfnrwxbeXwGg4GXayYI512wO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//or06FN3Dka5tukK1e9sl16pB3iy.jpg" group-title="VOD MARVEL ZI", Avengers : Endgame (2019)
+https://www.googleapis.com/drive/v3/files/1VpryQq80EwKLGCfyomrRUsQb5I9nZqsZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/37/Captain_America_The_First_Avenger_poster.jpg" group-title="VOD MARVEL ZI", Captain America : The First Avenger (2011)
+http://vodme.orangbiasa.workers.dev/MARVEL/720p.NB21.Captain.America.The.First.Avengers.2011.BluRay.1.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//9Axfv2wjUnsIRJkDaLSnj0ZuMYT.jpg" group-title="VOD MARVEL ZI", Captain America : The Winter Soldier (2014)
+https://www.googleapis.com/drive/v3/files/1gTTSgjNOWljihAIfyaRvISJP2BpkGb7c?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//8xA9XQ6KfvXFKcNLNRWSPT39Gaz.jpg" group-title="VOD MARVEL ZI", Captain America : Civil War (2016)
+https://www.googleapis.com/drive/v3/files/1S706z8eNwIGnAg8MkNJRw76ojR7B-f-z?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Captain_Marvel_poster.jpg" group-title="VOD MARVEL ZI", Captain Marvel (2019)
+https://www.googleapis.com/drive/v3/files/1SLFGknrTud1owprkGSr1_u7xWPNq9d6P?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71piCu%2BSGQL._AC_SL1434_.jpg" group-title="VOD MARVEL ZI", Spider-Man I (2002)
+http://vodme.orangbiasa.workers.dev/MARVEL/720p.Spider.M4n.2002.BluRay.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="VOD MARVEL ZI", Spider-Man II (2004)
+http://vodme.orangbiasa.workers.dev/MARVEL/kawanfilm21-720p.Spid3r.M4n.2.2004.BluRay.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg" group-title="VOD MARVEL ZI", Spider-Man III (2007)
+http://vodme.orangbiasa.workers.dev/MARVEL/NB21.Spider.Man.3.2007.BluRay.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_.jpg" group-title="VOD MARVEL ZI", The Amazing Spiderman (2012)
+https://www.googleapis.com/drive/v3/files/1Sm7CaxDXZvdRejpe3eSxZTkUYjn5TCso?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//c24sv2weTHPsmDa7jEMN0m2P3RT.jpg" group-title="VOD MARVEL ZI", Spider-Man : Homecoming (2017)
+http://vodme.orangbiasa.workers.dev/MARVEL/720p.NB21.Spider.Man.Homecoming.2017.BluRay.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//4q2NNj4S5dG2RLF9CpXsej7yXl.jpg" group-title="VOD MARVEL ZI", Spider-Man : Far from Home (2019)
+http://vodme.orangbiasa.workers.dev/MARVEL/NB21.Spider.Man.Far.from.Home.2019.BluRay.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg" group-title="VOD MARVEL ZI", Guardians of The Galaxy (2014)
+http://vodme.orangbiasa.workers.dev/MARVEL/720p.NB21.Guardians.of.the.Galaxy.2014.BluRay.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg" group-title="VOD MARVEL ZI", Guardians of The Galaxy Vol.2 (2017)
+http://vodme.orangbiasa.workers.dev/MARVEL/Kawanfilm21-Gu4rdians.0f.the.G4laxy.2.2017.BluRay.720p-Bioskopgratis21.com.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//fddtVEUozxvLmehR5yGZjem44pD.jpg" group-title="VOD MARVEL ZI", Ant-Man (2015)
+http://vodme.orangbiasa.workers.dev/MARVEL/720p.NB21.Ant.Man.2015.BluRay.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+######################################### VOD CHINA ZI################################
+#EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/51SJ7nJC6KL.jpg" group-title="VOD CHINA ZI", My Lucky Stars (1985)
+https://dl.dropboxusercontent.com/s/3ezagxrdnx9dl47/NB21.My.Lucky.Stars.1985.BluRay.mp4?dl=0
+
+#EXTINF:-1 logo="https://i.mydramalist.com/M7wByf.jpg" group-title="VOD CHINA ZI", Mr. Canton and Lady Rose (1989)
+https://dl.dropboxusercontent.com/s/ejj5oq41h643rk7/NB21.Mr.Canton.And.Lady.Rose.1989.REMASTERED.BluRay.mp4?dl=0
+
+#EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/519HEZNT1xL._AC_SY445_.jpg" group-title="VOD CHINA ZI", City Hunter (1993)
+https://dl.dropboxusercontent.com/s/qtf54er7qwrmkys/NB21.City.Hunter.1993.REMASTERED.BluRay.mp4?dl=0
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BMjEyNTI0NjM5M15BMl5BanBnXkFtZTYwMjQ0NTE3._V1_.jpg" group-title="VOD CHINA ZI", The Tuxedo (2002)
+https://dl.dropboxusercontent.com/s/jmcv8aoiy9z25kw/NB21.The.Tuxedo.2002.WEBDL.mp4?dl=0
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BYWE5MDkyNTktMjI0YS00OTRkLWEzNzAtZTJmN2Y5NzUyMmI2XkEyXkFqcGdeQXVyNDM1Nzc0MTI@._V1_.jpg" group-title="VOD CHINA ZI", Bleeding Steel (2017)
+https://dl.dropboxusercontent.com/s/wduae1i3etlouum/720p.NB21.Bleeding.Steel.2017.BluRay.mp4?dl=0
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BOWNmMzg1OTMtOGM5NS00ODEwLWIyYjMtZGU3NWM2MmViMmZhXkEyXkFqcGdeQXVyNzM3NDU4Njk@._V1_.jpg" group-title="VOD CHINA ZI", Once Upon A Time In China (1991)
+https://dl.dropboxusercontent.com/s/gfjyd6bjpfkzh3v/NB21.Once.Upon.a.Time.in.China.1991.REMASTERED.BluRay.mp4?dl=0
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BZDk3YzBiOTItMTY3My00MWZhLWI5MTYtNDU5Yzk3NThjZDQzXkEyXkFqcGdeQXVyNzM3NDU4Njk@._V1_.jpg" group-title="VOD CHINA ZI", Once Upon A Time In China (1992)
+https://dl.dropboxusercontent.com/s/tu7zlu49q70480b/NB21.Once.Upon.a.Time.in.China.II.1992.REMASTERED.BluRay.mp4?dl=0
+
+#EXTINF:-1 logo="https://nb21.live/wp-content/uploads/2019/07/wcG2PA66Fbv2l7r0n59x1nuB5fd-152x228.jpg" group-title="VOD CHINA ZI", Shanghai Noon (2000)
+https://dl.dropboxusercontent.com/s/mkxxxwcw5th5qhb/NB21.Shanghai.Noon.2000.BluRay.mp4?dl=0
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/SavingGeneralYang.jpg/220px-SavingGeneralYang.jpg" group-title="VOD CHINA ZI",Saving General Yang (2013)
+https://www.googleapis.com/drive/v3/files/1TXeameNvWL2Xhs54HL_Bp3iUlCV-2mD3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://i.mydramalist.com/E5P5zf.jpg" group-title="VOD CHINA ZI", Mr. Vampire (1985)
+https://www.googleapis.com/drive/v3/files/1AUcvQ6vFaHhJH5iM2AxG-WKpKk6q8syO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Mr_Vampire_2.jpg" group-title="VOD CHINA ZI", Mr. Vampire 2 (1986)
+https://www.googleapis.com/drive/v3/files/1XxkEdrmyAW9osd0X2HGanm6UKGxDbjaW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://ecs7.tokopedia.net/img/cache/300/product-1/2018/12/10/25878446/25878446_2b049e07-7836-4a83-8341-f6554d003437_300_422.jpg" group-title="VOD CHINA ZI", Mr.Vampire 3 (1987)
+https://www.googleapis.com/drive/v3/files/1SMrNF7qfUr9qU807aassdVLRYACplAXu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BNDc3MWUwNjgtMjg1My00NzljLWFmMDMtNGRhNzJmNzk4MDllXkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_UY1200_CR82,0,630,1200_AL_.jpg" group-title="VOD CHINA ZI", Shaolin (2011)
+https://www.googleapis.com/drive/v3/files/1toEutRCKd53q58zo5QX6CwNXQSUT3MYY?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/c/c7/ChasingtheDragon.jpg" group-title="VOD CHINA ZI",  Chasing the Dragon (2017) 
+https://www.googleapis.com/drive/v3/files/1IYKCNwbSnFAtJVtYWXROtylKU3uChUGA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://yams.akamaized.net/Assets/67/167/l_p0039516767.jpg" group-title="VOD CHINA ZI", God of Gamblers (1989)
+https://www.googleapis.com/drive/v3/files/1eFR-7QSnKjhCKvPUcLb4eu4p4AdiTEtu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/e/e8/GodofGamblersII.jpg" group-title="VOD CHINA ZI", God of Gamblers II (1991)
+https://www.googleapis.com/drive/v3/files/1ROZ6Zz9XL_K_HVieVTTzCb7f5CLOdKtS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/8/83/God_of_Gamblers_III_Back_to_Shanghai_DVD_cover.jpg" group-title="VOD CHINA ZI", God of Gamblers III: Back to Shanghai (1991) 
+https://www.googleapis.com/drive/v3/files/10MYv0WK99TY57Y2k9z0cLMmcVboeCgnc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/51NsHdVjX7L.jpg" group-title="VOD CHINA ZI", Kung Fu Hustle (2004) 
+https://www.googleapis.com/drive/v3/files/1ac3c-fQir5ONnygP4xGz6dpWHUOXX22L?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://pics.filmaffinity.com/Kung_Fu_Boys-920244906-large.jpg" group-title="VOD CHINA ZI", Kungfu Boys (2016)
+https://www.googleapis.com/drive/v3/files/1MbvBmojJvNI_7Y1D0nmx3Ut7gAQXdnvU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://image.tmdb.org/t/p/w500/diQJ18jgx8tyNkY5dQV6moZbWuh.jpg" group-title="VOD CHINA ZI",Oolong Courtyard: KungFu School (2018) 
+https://www.googleapis.com/drive/v3/files/1Ic2smwbVRfHrpu9DmnhhwcOmsbe_296n?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/White_Snake_poster.jpg" group-title="VOD CHINA ZI",White Snake (2019)
+https://www.googleapis.com/drive/v3/files/1I5oZpMmhhh0pvC1pdJV8cfE2hFPgC5pw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Poster_of_The_Bravest.jpg" group-title="VOD CHINA ZI",The Bravest (2019)
+https://www.googleapis.com/drive/v3/files/1DzVxLgjl0o9LOe4ZBvZLRaiWtxIAUGCd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://asianfilmstrike.files.wordpress.com/2019/09/p2569090715.jpg" group-title="VOD CHINA ZI",The Climbers (2019)
+https://www.googleapis.com/drive/v3/files/1XuLFbiv1VmBpBffmzP_h0TybGxS6QCJR?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://ekladata.com/aBYnncnDe2r0inyBzkEfYVu3eyc.jpg" group-title="VOD CHINA ZI",The Captain (2019)
+https://www.googleapis.com/drive/v3/files/1S-41ao41bzwwkqNHRrhKaMNP0Ir02JCA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EEcVHdJWkAcZNw8.jpg" group-title="VOD CHINA ZI",Jade Dynasty (2019)]
+https://www.googleapis.com/drive/v3/files/1-wXN26ouCTi6gG3WTm5x77phoJVEDTKA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Ehf8A6jWQ7I/XY84e-57LrI/AAAAAAAAXZU/1Qpy1jUUPEI5rL20iRiaEOzFmVQIvnCkQCLcBGAsYHQ/s1600/tumblr_pv5y0nDB471ralgblo1_r1_1280.jpg
+" group-title="VOD CHINA ZI",Shanghai Fortress (2019)
+https://www.googleapis.com/drive/v3/files/1JGBNzNemMwm2_uot1lZWqTCK4rPwB_i5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Shen_tan_Pu_Song_Ling_%282019%29_Film_Poster.jpg" group-title="VOD CHINA ZI",The Knight of Shadows: Between Yin and Yang (2019)
+https://www.googleapis.com/drive/v3/files/1BWKb72tgh70ex9zBmK1T8rhRAm3Pjers?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/170x/dc/9d/39/dc9d39ad31e73f938701e193ecec2f59.jpg" group-title="VOD CHINA ZI",The Void Evidence (2019)
+https://www.googleapis.com/drive/v3/files/1b5ry4lqVvgkic01RJmyBRXrGihmiAtau?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://cityonfire.com/wp-content/uploads/2018/09/crystal.jpg" group-title="VOD CHINA ZI",In Harm’s Way (2017)
+https://www.googleapis.com/drive/v3/files/1YcHQTG3UHIx0M6QDDFMvQTMP5XPsvMMk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/465MAfA2KVL0NsSrPKGUYhrgaNN.jpg" group-title="VOD CHINA ZI",The Great Sage Sun Wukong (2019)
+https://www.googleapis.com/drive/v3/files/11fQi4mtS5ZrCbAuLQwjCX_jEOec2_MMW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://wowbluray.me/uploaded/9vbCFUudJGyNfA4MA-046.jpg" group-title="VOD CHINA ZI",The Wandering Earth (2019)
+https://www.googleapis.com/drive/v3/files/1kCY7rfXc_-O3HAyKbou6v8NqyVlUnfSX?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/MartialArtsofShaolin.jpg" group-title="VOD CHINA ZI",Shaolin Temple 3: Martial Arts of Shaolin (1986)
+https://www.googleapis.com/drive/v3/files/1t0u-4LFWGObWIjyyiP5CIiBb-XFPKqYx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+
+
+
+
+
+
+######################################### VOD HONG KONG  ZI#################################
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/c/cd/ColdWar2.jpg" group-title="VOD HONG KONG ZI",Cold War II (2016)
+https://www.googleapis.com/drive/v3/files/1KkKke4V77Fc451Gld6y2tJ7PE6trC8ll?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://image.tmdb.org/t/p/w300/ySr8JB48d3t55hL8N3BnOO5iyu5.jpg" group-title="VOD HONG KONG ZI",Zombie Fight Club (2014)
+https://www.googleapis.com/drive/v3/files/145L5MBzgW6ulP8p05W5qUxtJKTO64vVX?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://i.mydramalist.com/5ymY4f.jpg" group-title="VOD HONG KONG ZI",My Beloved Bodyguard (2016)
+https://www.googleapis.com/drive/v3/files/11BznnqdqnoOpRpLT8dlWMdpiO8dax9vP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://tvguide1.cbsistatic.com/feed/1/862/116474862.jpg" group-title="VOD HONG KONG ZI",Spooky Encounters (1980)
+https://www.googleapis.com/drive/v3/files/1wPbbU96Bl5Wqpwr2eFcfczxuFNiPMJ4D?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://i.pinimg.com/736x/c6/10/8c/c6108c4c6bf3a48db126ee44a99945ea.jpg" group-title="VOD HONG KONG ZI",Bleeding Steel (2017)
+https://www.googleapis.com/drive/v3/files/1nQEVwqyGgspUymPQY6VgA8GkmKMiVr4H?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://yams.akamaized.net/Assets/95/471/l_p0082747195.jpg" group-title="VOD HONG KONG ZI",Chasing the Dragon (2017)
+https://www.googleapis.com/drive/v3/files/1IYKCNwbSnFAtJVtYWXROtylKU3uChUGA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/4/41/The_Thousand_Faces_of_Dunjia_-_%E5%A5%87%E9%96%80%E9%81%81%E7%94%B2.jpg" group-title="VOD HONG KONG ZI",The Thousand Faces of Dunjia (2017)
+https://www.googleapis.com/drive/v3/files/1XonPu4MWCNh79FpNxhdqi8G8dnM4aUxK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://www.movieartarena.com/imgs/cotgfdvd.jpg" group-title="VOD HONG KONG ZI",Curse of the Golden Flower (2006)
+https://www.googleapis.com/drive/v3/files/1adxfQtqp4iXInBsjLr8Y_LtapBlsqjwb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://i.mydramalist.com/GwBBkc.jpg" group-title="VOD HONG KONG ZI",Shaolin Popey II: Messy Temple (1994)
+https://www.googleapis.com/drive/v3/files/0B4U1NJKaVmvsdmg2ekE1bnFIQmM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/71N93WVQXmL._RI_.jpg" group-title="VOD HONG KONG ZI",Agent Mr. Chan (2018)
+https://www.googleapis.com/drive/v3/files/13iL4UNecs-wQ65Cst3X1L3-0NIfSNOgS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://image.tmdb.org/t/p/w500/yZr6wabk41nYB1MdFJB2GpC2ytF.jpg" group-title="VOD HONG KONG ZI",Paradox (2017)
+https://www.googleapis.com/drive/v3/files/1GL3tX23eqRL1u6aqcmfjFAL3jDJKjbAl?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://www.filmsmash.com/wp-content/uploads/2016/09/mission-milano-poster-2.jpg" group-title="VOD HONG KONG ZI",Mission Milano (2016)
+https://www.googleapis.com/drive/v3/files/1e9fVHVMN7hM3J7VdofE5g8ubjce9t5PF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://i.redd.it/j2k5rqswx4001.jpg" group-title="VOD HONG KONG ZI",Manhunt (2017)
+https://www.googleapis.com/drive/v3/files/1UFqqzfZtMuuk8lnNPvFa0NDwWKVlbFgq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://i.pinimg.com/564x/38/26/d5/3826d515f1edc2f52e42f5097feddcef.jpg" group-title="VOD HONG KONG ZI",Project Gutenberg (2018) 
+https://www.googleapis.com/drive/v3/files/1SfcuMUxh5YA7xy8OcGWgpnj3SyF8YzOm?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://ecs7.tokopedia.net/img/cache/700/product-1/2018/10/31/42675559/42675559_969964ac-9360-4732-9db8-5a791a2e8115_1024_1500.jpg" group-title="VOD HONG KONG ZI",Golden Job (2018)
+https://www.googleapis.com/drive/v3/files/1f0OgZMDaZeQcsuPH3yxnboawqsHYFML6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://loadtv.info/wp-content/uploads/2016/11/shi-tu-xing-zhe.jpg" group-title="VOD HONG KONG ZI",Line Walker (2016)
+https://www.googleapis.com/drive/v3/files/14HjGrUfWR5usIsFT-UdHz16unGuiNKYH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://i.pinimg.com/474x/6d/03/a4/6d03a4d1de4fdaa72d2fbe021e1a03ba.jpg" group-title="VOD HONG KONG ZI",Vampire Cleanup Department (2017)
+https://www.googleapis.com/drive/v3/files/136ajxAxDM-y8z7JQ96Gj6W2ddhw4n8lt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://pics.filmaffinity.com/Dragon_The_Bruce_Lee_Story-739596862-large.jpg" group-title="VOD HONG KONG ZI",Dragon: The Bruce Lee Story (1993)
+https://www.googleapis.com/drive/v3/files/17bdDpuD_xeOgUtNAZ2FF-UVT-0e_OqTx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ip_Man_4_poster.png" group-title="VOD HONG KONG ZI",Ip Man 4: The Finale (2019)
+https://www.googleapis.com/drive/v3/files/14hIAQswla0_4CvBHXTmoVWP3v8zu9kc9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://image.tmdb.org/t/p/w500/txzzoBDJLxdY8trkilWpI84APa3.jpg" group-title="VOD HONG KONG ZI",We Are Legends (2019)
+https://www.googleapis.com/drive/v3/files/1uxW8z-6VOnoF6TPLoFf6LUVMduBj7Jw9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://4.bp.blogspot.com/-1L-vMomfAnY/WhFWuCxSIjI/AAAAAAAABf4/0fdXan5gZRMtnlxu6F3y1sN211dJNgkvwCLcBGAs/s1600/love-contractually-hong-kong-2017.jpg" group-title="VOD HONG KONG ZI",Love Contractually (2017)
+https://www.googleapis.com/drive/v3/files/18p4nzWl3f7ozI18Hu0lgzmk7UeK8fXr4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/71yIhLo9qdL._SY445_.jpg" group-title="VOD HONG KONG ZI",From Beijing with Love (1994)
+https://www.googleapis.com/drive/v3/files/10jqY-5PBDDtbX_CtFwgHA7WP_WHjv2z0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://i.pinimg.com/originals/70/61/55/706155c8fcf384584805d63913333b4f.jpg" group-title="VOD HONG KONG ZI",Iceman: The Time Traveller (2018)
+https://www.googleapis.com/drive/v3/files/1x3Mw6smX3dNnKdx-e64pknpwo0JLJQJO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+
+
+
+
+
+######################################### VOD KOREA ZI#################################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//s9ulpxLbkeJTTYxqLVUl6PreLGN.jpg" group-title="VOD KOREA ZI", A Moment to Remember (2004)
+https://dl.dropboxusercontent.com/s/b2ibbc6y6g0c7zh/NB21.A.Moment.to.Remember.2004.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//2tCUJYr9EbWi9UST1KJjy06evB7.jpg" group-title="VOD KOREA ZI", FLU (2013)
+https://dl.dropboxusercontent.com/s/4hdbcgv7rgukhqn/Flu.2013.BluRay%20%E2%80%A2%20MELONGFILM.in.mkv?dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/" group-title="VOD KOREA ZI", Parasite (2019)
+https://dl.dropboxusercontent.com/s/u72bzvkvydnbg6a/NB21.Parasite.2019.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//wOvwTojviAld9AcHQYIM1XaJviy.jpg" group-title="VOD KOREA ZI", Sunny (2011)
+https://dl.dropboxusercontent.com/s/j5481bosj7ostnl/NB21.Sunny.2011.DC.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//vHWmZaITaOn3HhZermsJdSatuiN.jpg" group-title="VOD KOREA ZI", You Are the Apple of My Eye (2011)
+
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51STFP8VZXL._SY445_.jpg" group-title="VOD KOREA ZI",Volcano High (2002)
+https://www.googleapis.com/drive/v3/files/1YjIIaBeq7dGyp5Va5Yowbkv7duL_IjRP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8iCmS2Fuomk/U_9fXvyghvI/AAAAAAAALxs/Ob8aTd3Keog/s1600/Commitment-poster-27x40_sm1.jpg" group-title="VOD KOREA ZI",Commitment (2013)
+https://dl.dropboxusercontent.com/s/8clzjribz5aev6y/720p.NB21.Commitment.2013.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/72/The_Spy_Undercover_Operation_poster.jpg" group-title="VOD KOREA ZI",The Spy: Undercover Operation (2013) 
+https://dl.dropboxusercontent.com/s/57fojfbmo4kang8/NB21.The.Spy.Undercover.Operation.2013.WEBDL.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://cdn2.tstatic.net/surabaya/foto/bank/images2/sinopsis-film-train-to-busan-malam-ini-di-movievaganza-trans7-jam-2030-aksi-gong-yoo-vs-zombie.jpg" group-title="VOD KOREA ZI",Train To Busan 1 (2016)
+https://dl.dropboxusercontent.com/s/c037q1du06hlsuu/720p.NB21.Train.to.Busan.2016.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://zenodo.org/api/files/00000000-0000-0000-0000-000000000000/free-peninsula-hd720p-train-to-busan-2-full-movie-hd/logo.jpg" group-title="VOD KOREA ZI",Train To Busan 2 : Peninsula (2020)
+https://dl.dropboxusercontent.com/s/n9k825r4sz371xn/NB21.Train.to.Busan.2.Peninsula.2020.WEBDL.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FjN2Q0ZWQtN2NiOC00MTZjLTg3ZDEtMmVkNzM0ODBkYmU1XkEyXkFqcGdeQXVyNTUxNTI3MzY@._V1_.jpg" group-title="VOD KOREA ZI",Along with the Gods: The Two Worlds (2017)
+https://dl.dropboxusercontent.com/s/jnf0fjsdmeufmlq/720p.NB21.Along.with.the.Gods.The.Two.Worlds.2017.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dD0IkeanGMSSUIG0KDHBIXcS2sx.jpg" group-title="VOD KOREA ZI",Along with the Gods: The Last 49 Days (2018)
+https://ldropboxusercontent.com/s/4r7brm4z4ifycfn/%5Bkawanfilm21.online%5D-along-with-the-g0ds-the-l4st-49-d4ys.2018.bluray.720p.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGU0NGM0YzQtYjkyYy00Y2VjLTgyM2MtM2Q2NTRjNDUxYmJiXkEyXkFqcGdeQXVyNTUxNTI3MzY@._V1_.jpg" group-title="VOD KOREA ZI",The Great Battle (2018) 
+https://dl.dropboxusercontent.com/s/5nhyoi5j5x4pmfw/NB21.The.Great.Battle.2018.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://reneemiraille.files.wordpress.com/2019/03/images-38.jpg" group-title="VOD KOREA ZI",Fall in Love at First Kiss (2019)
+https://dl.dropboxusercontent.com/s/p0c1um4e08iacjc/NB21.Fall.in.Love.at.First.Kiss.2019.WEBDL.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://www.wellgousa.com/sites/default/files/2019-12/812x1200-HomeEnt.jpg" group-title="VOD KOREA ZI",The Battle of Jangsari (2019)
+https://dl.dropboxusercontent.com/s/zp68kanoesdebk9/NB21.The.Battle.of.Jangsari.2019.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/48/54/33/4854339e5eb5d2f406d0e55fc4b87534.jpg" group-title="VOD KOREA ZI",Hit-and-Run Squad (2019)
+https://dl.dropboxusercontent.com/s/leaue2mdq6l4mzn/NB21.Hit.and.Run.Squad.2019.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://drakorbee.com/wp-content/uploads/2020/02/92ff78863992718d2bea100f805fdc06.jpg" group-title="VOD KOREA ZI",Ashfall (2019)
+https://dl.dropboxusercontent.com/s/3bvvlqz4nzuedfo/%5BMOVIND%5D.Ashfall.2019.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzI3NTdkNTEtZjcxNi00ODJlLTllNGMtNGEzZTNjODljZGRlXkEyXkFqcGdeQXVyNzEyMDQ1MDA@._V1_.jpg" group-title="VOD KOREA ZI",The Odd Family: Zombie on Sale (2019)
+https://dl.dropboxusercontent.com/s/gnwmfvviqjr71bj/NB21.The.Odd.Family.Zombie.On.Sale.2019.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://dianiopiari.com/wp-content/uploads/2019/09/Tune_in_For_Love-p1.jpg" group-title="VOD KOREA ZI",Tune in for Love (2019) 
+https://dl.dropboxusercontent.com/s/zfi1f66xalmh652/NB21.Tune.in.For.Love.2019.WEBDL.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://i.mydramalist.com/23OYdf.jpg" group-title="VOD KOREA ZI",Hello, My Cat (2019)
+https://dl.dropboxusercontent.com/s/ymci1os5qbndix5/NB21.Hello.My.Cat.2019.HDRip.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/Birthday_2019_poster.jpg" group-title="VOD KOREA ZI",Birthday (2019)
+https://dl.dropboxusercontent.com/s/idkoq0fwc0jn3zz/NB21.Birthday.2019.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/streamxxi.org/wp-content/uploads/2019/10/The-Bad-Guys.jpg" group-title="VOD KOREA ZI",The Bad Guys: Reign of Chaos (2019)
+https://dl.dropboxusercontent.com/s/ghch61o0sbcs07b/NB21.The.Bad.Guys.Reign.of.Chaos.2019.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWY4ZDQ4ZjYtMjk1OS00MjU4LWJjMDEtNjYxNjQ3ZmFkNzIwXkEyXkFqcGdeQXVyNzEyMDQ1MDA@._V1_.jpg" group-title="VOD KOREA ZI",The Beast (2019)
+https://dl.dropboxusercontent.com/s/cb9z01o1yhvq6dm/NB21.The.Beast.2019.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://osccdn.medcom.id/images/content/2019/08/27/4e06f426ee0c669a081cf28c14568387.jpg" group-title="VOD KOREA ZI",Innocent Witness (2019) 
+https://dl.dropboxusercontent.com/s/2ytjs8zcjummdzb/NB21.Innocent.Witness.2019.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://dianiopiari.com/wp-content/uploads/2020/02/Beasts_Clawing_At_Straws-tp01.jpg" group-title="VOD KOREA ZI",Beasts That Cling to the Straw (2020)
+https://dl.dropboxusercontent.com/s/9rxgabdhsm4ubqs/NB21.Beasts.That.Cling.to.the.Straw.2020.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://cdnx2.kincir.com/production/2020-02/27055d6d13204486b416234c489e0983d5545bda.jpg" group-title="VOD KOREA ZI",Secret Zoo (2020)
+https://dl.dropboxusercontent.com/s/8ehaxc8cgtodkqv/NB21.Secret.Zoo.2020.BluRay.mp4?dl=0
+
+
+
+
+##################################VOD BOLLYWOOD ZI##########################################
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODg4MTJkNzctOTg1Yy00NTI5LTgwY2YtNDYwMDBlMTQ4NzcxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="VOD BOLLYWOOD ZI", Marjaavaan (2019)
+https://dl.dropboxusercontent.com/s/m5sy2z0zyse2apc/NB21.Marjaavaan.2019.WEBDL.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/" group-title="VOD BOLLYWOOD ZI", 3 Idiot (2009)
+https://www.googleapis.com/drive/v3/files/1eywhRblq3K9yM9YXP-MYUyA_62pbqB66?alt=media&key=AIzaSyAcwOdrtpGgDBLYUVu6fy7N5DJaPqCPTPY
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2018/06/film-dil-hai-tumhaara-2002-150x225.jpg" group-title="VOD BOLLYWOOD ZI", Dil Hai Tumaraa (2002)
+https://www.googleapis.com/drive/v3/files/1Rf4j_7jiQIgmzrYrcRPZ-vD1drGjyJ2k?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//dCCOiZBxDbJbHoS2q0PNaC3QUdN.jpg" group-title="VOD BOLLYWOOD ZI", Dilwale (2015)
+https://www.googleapis.com/drive/v3/files/18YwUVXG3j60Swn_TZhlWPuX5Oyb9iDBM?alt=media&key=AIzaSyAcwOdrtpGgDBLYUVu6fy7N5DJaPqCPTPY
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//zhMI6I0kSLnewTMwE0A8Tz3Cj2f.jpg" group-title="VOD BOLLYWOOD ZI", Kal Ho Naa Ho (2003)
+https://www.googleapis.com/drive/v3/files/1YT_oNohlI65cNQp31t52dPET2uT20TlK?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//ioW5i4R4FEm3QT9yd0aBxJDJi6T.jpg" group-title="VOD BOLLYWOOD ZI", Kabhi Khushi Kabhie Gham... (2001)
+https://www.googleapis.com/drive/v3/files/1Z9kijFrd2ocwa3PpvCQ_ikdW31IwP4a8?alt=media&key=AIzaSyAcwOdrtpGgDBLYUVu6fy7N5DJaPqCPTPY
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//gOaOSQ6oxzhw7GkqUC2ulyCDEvb.jpg" group-title="VOD BOLLYWOOD ZI", Koi... Mil Gaya (2003)
+https://www.googleapis.com/drive/v3/files/17o9P_rtilU4qIWJU8WdXlLNsYhUkEXUm?alt=media&key=AIzaSyAcwOdrtpGgDBLYUVu6fy7N5DJaPqCPTPY
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//5FmtHHDGPofW5Zjns1EM1D8503c.jpg" group-title="VOD BOLLYWOOD ZI", Kuch Kuch Hota Hai (1998)
+https://www.googleapis.com/drive/v3/files/1X9mpa1X1vDI-FxFmonPi20Nez0GPGicZ?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/" group-title="VOD BOLLYWOOD ZI", Laila Majnu (2018)
+https://www.googleapis.com/drive/v3/files/1bXd9xP9TRhu_rglZ1cYQDsryC3Mzuza7?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2018/06/film-mardaani-2014-150x225.jpg" group-title="VOD BOLLYWOOD ZI", Mardaani (2014)
+https://www.googleapis.com/drive/v3/files/1BkT473bKpGoWB9wtUr1JEaf5Hns7V33o?alt=media&key=AIzaSyAcwOdrtpGgDBLYUVu6fy7N5DJaPqCPTPY
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//9Fk6SzvqFuPMGCfnkUSDANtOxVD.jpg" group-title="VOD BOLLYWOOD ZI", Mardaani 2 (2019)
+https://www.googleapis.com/drive/v3/files/1-cAACZw6ZcUZERC7jS38rXdReb2jGjXo?alt=media&key=AIzaSyAcwOdrtpGgDBLYUVu6fy7N5DJaPqCPTPY
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//9viHDkVC1Xl08jmau6ikudz7eH8.jpg" group-title="VOD BOLLYWOOD ZI", Motichoor Chaknachoor (2020)
+https://www.googleapis.com/drive/v3/files/1CJF6vOdv-qurlc3qhfIN84gD8wDM_lZC?alt=media&key=AIzaSyD739-eb6NzS_KbVJq1K8ZAxnrMfkIqPyw
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//mlXGCZAqZuVJI22XagK7WRnYJ0n.jpg" group-title="VOD BOLLYWOOD ZI", Pati Patni Aur Woh (2019)
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/" group-title="VOD BOLLYWOOD ZI", PK (2014)
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//5vO0gmWUmLAnVUtVbuWEScIWEAy.jpg" group-title="VOD BOLLYWOOD ZI", TANHAJI - The Unsung Warrior (2020)
+
+
+#EXTINF:-1 tvg-logo="" group-title="VOD BOLLYWOOD ZI", Taqdeer - Hello! (2017)
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//5jOqatpfh0aKYhl6fN83RK69UtC.jpg" group-title="VOD BOLLYWOOD ZI", Zero (2018)
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//9BAjt8nSSms62uOVYn1t3C3dVto.jpg" group-title="VOD BOLLYWOOD ZI", Baahubali : The Beginning (2015)
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//sXf30F2HFpsFPXlNz7jpOySSV9I.jpg" group-title="VOD BOLLYWOOD ZI", Baahubali : The Conclusion (2017)
+
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/4/40/Fanaa_Poster.jpg" group-title="VOD BOLLYWOOD ZI",Fanaa (2006)
+https://s29.cdncv.net/hls/mfqjwib2uxo6sr7qw4fu34cl442qg76ue32vktqyswvzas5c2gwai3rw5jla/index-v1-a1.m3u8
+
+
+
+
+
+
+
+##############################################VOD HOROR ZI###################################
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Pee_Mak_International_Poster.jpg/220px-Pee_Mak_International_Poster.jpg" group-title="VOD HOROR ZI",Pee Mak Phrakanong (2013)
+https://www.googleapis.com/drive/v3/files/1KpwADzeThz2cW1vqNU8Goa71A19kOFDm?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://2.bp.blogspot.com/-lgBFDX9WtRE/Wd70fCuI7jI/AAAAAAAAAC8/MKJcjX4JKFIEBZAP6zXd7gNRMCaoTy4EACLcBGAs/s1600/palasik.jpg" group-title="VOD HOROR ZI",Palasik (2015)
+https://bitball.b-cdn.net/movies/2020-06/06-19-2020/Palasik.2015.WEB-DL.576p.IDFL.info.mp4
+
+#EXTINF:-1 logo="https://2.bp.blogspot.com/-knDWUHVsXsk/XA9YqFKoKMI/AAAAAAAAZjk/C_FrvYjU1r8Z_LqdexHhOdodLxM5GQUxgCLcBGAs/s1600/h-HO00000404.jpg" group-title="VOD HOROR ZI",Tusuk Jelangkung Di Lubang Buaya (2018)
+https://bitball.b-cdn.net/movies/2020-06/06-03-2020/Tusuk.Jelangkung.di.Lubang.Buaya.2018.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1 logo="https://lh3.googleusercontent.com/proxy/JereNHF9va33ZmkbhGVye_I_f_1q8tgYBVP3NsyeglpJW4IQWChvsFE5VglfspaaaSPdkJHkWXu8Wla6mWjtU0KwHETess1jufQijuKZcOTqNtxFFWMbhbrDU8CKs148HMl5" group-title="VOD HOROR ZI",Titisan Setan (2018)
+https://bitball.b-cdn.net/movies/2020-06/06-03-2020/Titisan.Setan.2018.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/2/21/Poster-jaran-goyang-1.jpg" group-title="VOD HOROR ZI",Jaran Goyang (2018)
+https://bitball.b-cdn.net/movies/2020-06/06-04-2020/Jaran.Goyang.2018.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/b/ba/Keramat_poster_2009.jpg" group-title="VOD HOROR ZI",Keramat (2009)
+https://bitball.b-cdn.net/movies/2020-06/06-27-2020/Keramat.2009.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1 logo="https://amiratthemovies.files.wordpress.com/2015/03/kampung-zombie-poster.jpg" group-title="VOD HOROR ZI",Kampung Zombie (2015)
+https://bitball.b-cdn.net/movies/2020-06/06-16-2020/Kampung.Zombie.2015.WEB-DL.576p.IDFL.info.mp4
+
+#EXTINF:-1 logo="https://3.bp.blogspot.com/-4_OOSvkZqwQ/XAVhfqO7T4I/AAAAAAAABW8/QglQf5VoZSsNkks7cyVKTqKK77_vTbTUQCLcBGAs/s1600/poster-arwah-tumbal-nyai.jpg" group-title="VOD HOROR ZI",Arwah Tumbal Nyai: Part Nyai (2018)
+https://bitball.b-cdn.net/movies/2020-06/06-12-2020/Arwah.Tumbal.Part.Nyai.2018.720p.WEB-HD.IDFL.info.mp4
+
+#EXTINF:-1 logo="https://cdn0-production-images-kly.akamaized.net/Fp-ytWdsO-B1lnnbIAtRfBun_EA=/0x34:1376x1870/640x853/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2877482/original/076944600_1565329273-perempuan_tanah_jahanam.jpg" group-title="VOD HOROR ZI",Perempuan Tanah Jahanam (2019)
+https://bitball.b-cdn.net/movies/2020-05/05-22-2020/01-Perempuan.Tanah.Jahanam.2019.WEBRip.720p.IDFL.info.mp4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/0/02/Miemien_Hantu_Posesif.jpg" group-title="VOD HOROR ZI",Miemien Hantu Posesif (2015)
+https://zaccar.b-cdn.net//movies/indonesia/Miemin%20hantu%20posesif.mp4
+
+#EXTINF:-1 logo="https://miro.medium.com/max/4000/1*T7Rz3Cp5Kqm626UDGkHIqA.jpeg" group-title="VOD HOROR ZI",The Wretched (2020)
+https://bitball.b-cdn.net/movies/2020-05/05-05-2020/The.Wretched.2020.WEB-DL.720p.IDFL.info.mp4
+
+#EXTINF:-1 logo="https://www.wickedthrillingfreaks.com/wp-content/uploads/2020/04/The-Unborn-2020-Poster.jpg" group-title="VOD HOROR ZI",The Unborn (2020)
+https://dl.dropboxusercontent.com/s/4te27bvsfoxrxza/NB21.The.Unborn.2020.WEBDL.mp4?dl=0
+
+#EXTINF:-1 logo="https://www.voicesfromthebalcony.com/wp-content/uploads/2020/04/A-Nuns-Curse-Poster-500x750.jpg" group-title="VOD HOROR ZI",A Nun’s Curse (2020)
+https://bitball.b-cdn.net/movies/2020-06/06-24-2020/A.Nuns.Curse.2020.720p.WEBRip.x264.AAC.IDFL.info.mp4
+
+
+
+
+
+
+
+
+
+
+#########################################VOD ACT & THRILL ZI#################################
+#EXTINF:-1 logo="https://occ-0-1009-1001.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABZmkPFkT7o7eSPf2qNUnyLypQ1AtEaTI2nadl6urPaSiYvEE25_lhANwKN7QlNl_4adj9slzadFB6TxNlGys7jLOiB61SX0PQA.jpg" group-title="VOD ACT & THRILL ZI",Mile 22 (2018)
+https://vodme.orangbiasa.workers.dev/FILM%2520BARAT/M/720p.NB21.Mile.22.2018.BluRay.mp4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/0/00/Fast_%26_Furious_Presents_Hobbs_%26_Shaw_-_theatrical_poster.jpg" group-title="VOD ACT & THRILL ZI",Fast & Furious : Hobb & Shaw (2019)
+https://vodme.orangbiasa.workers.dev/FILM%2520BARAT/F/NB21.Fast.Furious.Presents.Hobbs.Shaw.2019.BluRay.mp4
+
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BODcxMzY3ODY1NF5BMl5BanBnXkFtZTgwNzg1NDY4MTE@._V1_.jpg" group-title="VOD ACT & THRILL ZI",Lucy (2014)
+https://dl.dropboxusercontent.com/s/gcylbvt9st4j3mm/fileid-25882-terbit21-com-lucy-2014.mp4?dl=0
+
+#EXTINF:-1 logo="https://troyster90.files.wordpress.com/2016/12/6a2d45c885d7e6533105c4f86086dffc.jpg" group-title="VOD ACT & THRILL ZI",Snowden (2016)
+https://dl.dropboxusercontent.com/s/tuxl7j0c0bvq166/1080p.NB21.Snowden.2016.BluRay.mp4?dl=1
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BMjJjNmYxOGYtZDhiZC00N2E0LThlM2EtNTkzNWMzNDBjNGRjXkEyXkFqcGdeQXVyNjI5MTk5OTY@._V1_.jpg" group-title="VOD ACT & THRILL ZI",House Of The Witch (2017)
+https://dl.dropboxusercontent.com/s/3g422uir0jvm4il/%5B720p%5DHouse.Of.The.Witch.2017.W3B-DL.MELONGFILM.mp4?dl=0
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BNDgzODM2MjUyMF5BMl5BanBnXkFtZTgwMzg4MjA1OTE@._V1_SX300.jpg" group-title="VOD ACT & THRILL ZI",Rurouni Kenshin Part I: Origins (2012)
+https://dl.dropboxusercontent.com/s/sdngwdv4tm11hs0/Rurouni%20Kenshin%20%282012%29%201080p.mkv?dl=1
+
+#EXTINF:-1 logo="https://i1.wp.com/terbit21.co/wp-content/uploads/2020/05/gI2xYpJPQOsmFblvowkW2IgEHkC.jpg" group-title="VOD ACT & THRILL ZI",Rurouni Kenshin Part II: Kyoto Inferno (2014)
+https://dl.dropboxusercontent.com/s/7aawek8wmu5hx78/RrnKnshn%20KytInfrn%202k14%20BluRay%20720p%20x264%20AAC%202Ch%20-%20DRAYS.mkv?dl=1
+
+#EXTINF:-1 logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/07/3Xq7xmYZwNJfSODpec6OzYaxaA3-150x225.jpg" group-title="VOD ACT & THRILL ZI",Rurouni Kenshin Part III: The Legend Ends (2014)
+https://dl.dropboxusercontent.com/s/kmcqu3m730wd5dz/Rurouni%20Kenshin%20The%20Legend%20Ends%20%282014%29%20720p.mkv?dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//wuMc08IPKEatf9rnMNXvIDxqP4W.jpg" group-title="VOD ACT & THRILL ZI", Harry And The Sorcerers Stone (2001)
+https://dl.dropboxusercontent.com/s/i42e3h8u3smdofi/NB21.Harry.Potter.and.the.Sorcerers.Stone.2001.EXTENDED.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg" group-title="VOD ACT & THRILL ZI", Harry And The Chamber 
+1ff8
+Of Secrets (2002)
+https://dl.dropboxusercontent.com/s/014uy5k5gf5o2tg/NB21.Harry.Potter.and.the.Chamber.of.Secrets.2002.EXTENDED.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//uDQibffYgssdiqx7izO57wdLc6.jpg" group-title="VOD ACT & THRILL ZI", Harry The Prisoner Of Azkaban (2004)
+https://dl.dropboxusercontent.com/s/7zdzv71m8v0inzx/NB21.Harry.Potter.and.the.Prisoner.of.Azkaban.2004.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg" group-title="VOD ACT & THRILL ZI", Harry And The Goblet Of Fire (2005)
+https://dl.dropboxusercontent.com/s/l7wdbm3awitj7ua/NB21.Harry.Potter.and.the.Goblet.of.Fire.2005.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//5aOyriWkPec0zUDxmHFP9qMmBaj.jpg" group-title="VOD ACT & THRILL ZI", Harry And The Order Of The Phoenix (2007)
+https://dl.dropboxusercontent.com/s/dz8x38ybmh3x1uj/NB21.Harry.Potter.and.the.Order.of.the.Phoenix.2007.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//Ag21otqbeynZPGjEbzyr3X5Us0j.jpg" group-title="VOD ACT & THRILL ZI", Harry And The Half-Blood Prince (2009)
+https://dl.dropboxusercontent.com/s/jihnjisce8vhg3d/NB21.Harry.Potter.and.the.Half.Blood.Prince.2009.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//iGoXIpQb7Pot00EEdwpwPajheZ5.jpg" group-title="VOD ACT & THRILL ZI", Harry And The Deathly Hallows Part 1 (2010)
+https://dl.dropboxusercontent.com/s/myskxcs9syq52hx/NB21.Harry.Potter.and.the.Deathly.Hallows.Part.1.2010.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200//da22ZBmrDOXOCDRvr8Gic8ldhv4.jpg" group-title="VOD ACT & THRILL ZI", Harry And The Deathly Hallows Part 2 (2011)
+https://dl.dropboxusercontent.com/s/qys55t0sdndvpz5/NB21.Harry.Potter.and.the.Deathly.Hallows.Part.2.2011.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY3MTI5NjQ4Nl5BMl5BanBnXkFtZTcwOTU1OTU0OQ@@._V1_.jpg" group-title="VOD ACT & THRILL ZI", Pacifi Rim (2013)
+https://m3u-editor.com/serve/1fe7e7f0-96b2-11ea-be8e-13d7db01b9f5/69764999
+
+#EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/51iSpEkeVjL._AC_.jpg" group-title="VOD ACT & THRILL ZI",Logan (2017)
+https://www.googleapis.com/drive/v3/files/1rwLZPOdOvvvGRNiHqCDIPmKcgZErZZf2?alt=media&key=AIzaSyAcwOdrtpGgDBLYUVu6fy7N5DJaPqCPTPY
+
+#EXTINF:-1 logo="https://static.posters.cz/image/750/plagaty/wonder-woman-kneel-i48833.jpg" group-title="VOD ACT & THRILL ZI",Wonder Woman (2017)
+https://www.googleapis.com/drive/v3/files/1tEecUK2H14Tb1b1toatZlPMTDmlMO8Iq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://cinemags.co.id/wp-content/uploads/2019/08/Wonder-Woman-Bloodlines.jpg" group-title="VOD ACT & THRILL ZI",Wonder Woman: Bloodlines (2019)
+https://www.googleapis.com/drive/v3/files/1zavobwamaDl4E70VvTWkUipaQH1Cwt7S?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/c/c7/ChasingtheDragon.jpg" group-title="VOD ACT & THRILL ZI",Chasing the Dragon I (2017)
+https://www.googleapis.com/drive/v3/files/1IYKCNwbSnFAtJVtYWXROtylKU3uChUGA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/ChasingtheDragonII.jpg/220px-ChasingtheDragonII.jpg" group-title="VOD ACT & THRILL ZI",Chasing the Dragon II: Wild Wild Bunch (2019) 
+https://www.googleapis.com/drive/v3/files/1LbisC2Ocv53bILUy7x6tVOb2jp6cR-nT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/2/22/Real_Steel_Poster.jpg" group-title="VOD ACT & THRILL ZI",Real Steel (2011)
+https://www.googleapis.com/drive/v3/files/1rZ46Lq6N0zo5PqXsOc1WPSzuWmjuQb2L?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BZGFjOGVjNjctN2ZhZS00MWYxLTk3MGEtZWRjNTgzZmRkZjJlXkEyXkFqcGdeQXVyMjQ1MDE0NzU@._V1_UY1200_CR114,0,630,1200_AL_.jpg" group-title="VOD ACT & THRILL ZI",Sniper: Ghost Buster (2016)
+https://www.googleapis.com/drive/v3/files/1VxT2lfnrcFcnTQn3fqVkNntPU6K37jZx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BYjVmYWRmYjgtODEyNS00ZTgwLTg5NDYtMDcyNzQ3ZGUyOGUyXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_UY1200_CR137,0,630,1200_AL_.jpg" group-title="VOD ACT & THRILL ZI",Sniper: Ultimate Kill (2017)
+https://www.googleapis.com/drive/v3/files/1YGA62eOEVkaPWfdBbPTOb0vbcRZMt_rc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BMDY4YThkOWEtOWQyYy00MjRhLTg0YzctNDhlNzg4MGRkYmEwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="VOD ACT & THRILL ZI",Chocolate (2008)
+https://www.googleapis.com/drive/v3/files/1qqn2XiHzl2T7FIRZg3pnHKSkAJDa0p7_?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://i.pinimg.com/474x/1d/8d/9c/1d8d9cfb3ff63099f1ab13ef32e70523.jpg" group-title="VOD ACT & THRILL ZI",Twilight (2008) 
+https://www.googleapis.com/drive/v3/files/1orymBYeHIkr8zSiysIsdq5rtG9IfcUuQ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://bioskopkita21com.files.wordpress.com/2017/10/116.jpg?w=400" group-title="VOD ACT & THRILL ZI",The Twilight Saga: New Moon (2009) 
+https://www.googleapis.com/drive/v3/files/1ryEM9lM4B96AyRR_YKdaUKEtrv41P0KV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BNDMwNjAzNzYwOF5BMl5BanBnXkFtZTcwMDY5NzcyMw@@._V1_.jpg" group-title="VOD ACT & THRILL ZI",The Twilight Saga: Eclipse (2010)
+https://www.googleapis.com/drive/v3/files/1Ya-EQjLHb2L_SEWa9k-gJNMWa4_g-yPS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Breaking_Dawn_Part_1_Poster.jpg" group-title="VOD ACT & THRILL ZI",The Twilight Saga: Breaking Dawn – Part 1 (2011) 
+https://dl.dropboxusercontent.com/s/tba3vciabjhjmos/720p.NB21.The.Twilight.Saga.Breaking.Dawn.Part.1.2011.BluRay.mp4?dl=1
+
+#EXTINF:-1 logo="https://i.pinimg.com/originals/72/ab/f9/72abf9e45e6a7a7e4773c499f0374777.jpg" group-title="VOD ACT & THRILL ZI",The Twilight Saga: Breaking Dawn – Part 2 (2012)
+https://dl.dropboxusercontent.com/s/59wrenezq3nxfv1/kawanfilm21-720p.The.Twl1ght.S4g4.Bre4k1ng.D4wn.Part.2.2012.BluRay.mp4?dl=1
+
+#EXTINF:-1 logo="https://assets-a1.kompasiana.com/items/album/2015/08/20/missionimposscer1artpic1-55d55f99cb23bd2507381053.jpg" group-title="VOD ACT & THRILL ZI",Mission: Impossible 1 (1996) 
+https://dl.dropboxusercontent.com/s/dgvjlm4pvs6l3pu/720p.NB21.Mission.Impossible.1996.BluRay.mp4?dl=1
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BN2RkYWVkZDQtNTMxMi00NWQ4LWE2ODctNmQzOWM2NjQzYzdlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UY1200_CR85,0,630,1200_AL_.jpg" group-title="VOD ACT & THRILL ZI",Mission: Impossible 2 (2000)
+https://dl.dropboxusercontent.com/s/jjwt8xiwh1qqo2y/720p.NB21.Mission.Impossible.II.2000.BluRay.mp4?dl=1
+
+#EXTINF:-1 logo="https://3.bp.blogspot.com/-eJKaTH3kuqU/T6eN2MoV3lI/AAAAAAAAAHk/VENmV3cuNCM/s1600/poster_missionimpossible3_germanposter.jpg" group-title="VOD ACT & THRILL ZI",Mission: Impossible 3 (2006)
+https://dl.dropboxusercontent.com/s/xs6cgc99fg5xzp5/720p.NB21.Mission.Impossible.III.2006.BluRay.mp4?dl=1
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BMTY4MTUxMjQ5OV5BMl5BanBnXkFtZTcwNTUyMzg5Ng@@._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="VOD ACT & THRILL ZI",Mission: Impossible – Ghost Protocol (2011)
+https://www.googleapis.com/drive/v3/files/1vq0p8jbsPX1HAw_CQaPQdFJoHP3wdaTQ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BOTFmNDA3ZjMtN2Y0MC00NDYyLWFlY2UtNTQ4OTQxMmY1NmVjXkEyXkFqcGdeQXVyNTg4NDQ4NDY@._V1_.jpg" group-title="VOD ACT & THRILL ZI",Mission: Impossible – Rogue Nation (2015)
+https://www.googleapis.com/drive/v3/files/1_OagmZLgSxvhXDoNZm7_TpsM1Qnl9oJZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/f/ff/MI_%E2%80%93_Fallout.jpg" group-title="VOD ACT & THRILL ZI",Mission: Impossible – Fallout (2018)
+https://www.googleapis.com/drive/v3/files/1RoJLVRr6LLX57uINHb3Bisc8OGASo53q?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://www.setangkai.com/wp-content/uploads/2017/02/Romeo-Must-Die.jpg" group-title="VOD ACT & THRILL ZI",Romeo Must Die (2000)
+https://www.googleapis.com/drive/v3/files/1gHW3yynKEGxsNH_hTonipoXjsk3G2oTp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/f/fc/TheOnefilm.jpg" group-title="VOD ACT & THRILL ZI",The One (2001)
+https://www.googleapis.com/drive/v3/files/1CsZjP6QVE_j_MvZDigI4itmHV3Nsz_55?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/81JkN--gRzL._SL1500_.jpg" group-title="VOD ACT & THRILL ZI",Kiss of the Dragon (2001)
+https://www.googleapis.com/drive/v3/files/1vUiOFNxyQl_Q1q4qS4j4a69_kV5ar27A?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Unleashed_poster.jpg" group-title="VOD ACT & THRILL ZI",Unleashed (2005)
+https://www.googleapis.com/drive/v3/files/1Lt8ROfLf6RpqKgkwTIDehzk-kIcEOl0q?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Warposter.jpg" group-title="VOD ACT & THRILL ZI",War (2007)
+https://www.googleapis.com/drive/v3/files/17EezVqLD6CphaySLK3TkCCGoM6nptDto?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://1.bp.blogspot.com/-BmQFKr4fADA/Vc2ic7hrDlI/AAAAAAAAADo/Fn_sjTa8GO8/s1600/11173658_800.jpg" group-title="VOD ACT & THRILL ZI",The Mummy: Tomb of the Dragon Emperor (2008)
+https://www.googleapis.com/drive/v3/files/1sFkTLW-F0cVBLb5svQtvmLk4OYyGx6te?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BMjcyODQ3ODk1MF5BMl5BanBnXkFtZTgwNDI2NjI2MDE@._V1_.jpg" group-title="VOD ACT & THRILL ZI",Badges of Fury (2013)
+https://www.googleapis.com/drive/v3/files/1wjaQuHDwXjPEe79z45rI1xhwftCm7fN4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BMTI5MjA2Mzk2M15BMl5BanBnXkFtZTcwODY1MDUzMQ@@._V1_.jpg" group-title="VOD ACT & THRILL ZI",fearless (2016)
+https://www.googleapis.com/drive/v3/files/1sA5Nih0AWD2F-5EYEugcU0KvKzvGmn_Z?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rvtzn1LJjVL01VGxX8sICcdtveM.jpg" group-title="VOD ACT & THRILL ZI",Atone (2019)
+https://www.googleapis.com/drive/v3/files/1hnpgyZF0CLOhqZdqcnuE2iwisj0cOtOU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDA0ZTJmNWYtMzBjMC00NWY5LTg1MGEtZTZlOWExOWYyYTdmXkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_UY1200_CR109,0,630,1200_AL_.jpg" group-title="VOD ACT & THRILL ZI",Alien Invasion: S.U.M.1 (2017)
+https://www.googleapis.com/drive/v3/files/1dGG_0ApGck-3vTp5iiWleeLesSsVb9ru?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/d8/63/4b/d8634b2bba0df6a988bf37fabff7ab17.jpg" group-title="VOD ACT & THRILL ZI",Alien: Covenant (2017)
+https://www.googleapis.com/drive/v3/files/1_Wp4ano4ZDxIi9F6Wh72nHbG58isoN1q?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Against_the_Clock-313301254-large.jpg" group-title="VOD ACT & THRILL ZI",Against the Clock (2019)
+https://www.googleapis.com/drive/v3/files/18mHo5Qfu1wuUB5DTqlFhoNQN8qbrbBpl?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zK7iFBWGKOw/XdylX855t8I/AAAAAAAABik/WCKrKkI9vqIoerGjl9M0PsX61h9LlpKIwCLcBGAsYHQ/s320/3022.jpeg" group-title="VOD ACT & THRILL ZI",3022 (2019)
+https://www.googleapis.com/drive/v3/files/1EKDUy0XVteHrDBN8X32VfPRehV-zQWZ7?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTQ3Njk4OTc2OF5BMl5BanBnXkFtZTcwMjAyNjUzOA@@._V1_SY264_CR5,0,178,264_AL_.jpg" group-title="VOD ACT & THRILL ZI",247°F (2011)
+https://www.googleapis.com/drive/v3/files/1E02dCcs9gtpyxFv5vC1cD7bDAJdGEtjA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BNTEzMjk3NzkxMV5BMl5BanBnXkFtZTgwNjY2NDczNDM@._V1_.jpg" group-title="VOD ACT & THRILL ZI", 12 Strong (2018)
+https://www.googleapis.com/drive/v3/files/1X5KAw9SL0RO_GFEDxRswSjfttCalSuwT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://s.kaskus.id/r540x540/images/2015/09/02/4242593_20150902042217.jpg" group-title="VOD ACT & THRILL ZI",Maze Runner: The Scorch Trials (2015)
+https://www.googleapis.com/drive/v3/files/1uZDpA9OO8zuhGiUT6-Lad9YuM76vOaPL?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYyNzk3MDc2NF5BMl5BanBnXkFtZTgwMDk3OTM1NDM@._V1_.jpg" group-title="VOD ACT & THRILL ZI",Maze Runner: The Death Cure (2018)
+https://www.googleapis.com/drive/v3/files/1K7LnrFVxUD_THmcfOv-D_jnM9fVYhpbs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://www.fpciupnvj.com/wp-content/uploads/2018/07/91SC1HAl8SL._SL1500_.jpg" group-title="VOD ACT & THRILL ZI",13 Hours: The Secret Soldiers of Benghazi (2016)
+https://www.googleapis.com/drive/v3/files/122Pnui-XIHKObmFqzdsdNWddTF11fxJT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://thefrontrowreviewer.files.wordpress.com/2016/10/deepwater_horizon_ver10.jpg" group-title="VOD ACT & THRILL ZI",Deepwater Horizon (2016)
+https://www.googleapis.com/drive/v3/files/1ur4stZhwuPhRgSdmnmAeV6J95n5R9xn2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/postyrandom.com/wp-content/uploads/2019/11/photo_08.jpg" group-title="VOD ACT & THRILL ZI",The Wave (2015)
+https://www.googleapis.com/drive/v3/files/1ymCMQkWznsOFkt9o3zTFuIY9A73nk8DO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51-eXYOuuZL._AC_.jpg" group-title="VOD ACT & THRILL ZI",xXx : A Total Blash(2002) 
+https://www.googleapis.com/drive/v3/files/1uGMrQK7mtnAGKShl014QzQoVnUD3cSKQ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-r9Nz4I72Fe8/W5gH1Mx4-GI/AAAAAAAACKA/KN0qYYVjursG41AJx2kVA7CmHTJ2DOInwCLcBGAs/s1600/xxx3z.jpg" group-title="VOD ACT & THRILL ZI",xXx: Return of Xander Cage (2017)
+https://www.googleapis.com/drive/v3/files/1DFIeszdhCBEVP9WgiW1lxtnx2FeY6RBP?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGYwNzkxYjUtNWZlNi00MjY2LWIyZWItNGYyYjljOTBmMGZkXkEyXkFqcGdeQXVyNjc2NjA2NTE@._V1_SY1000_CR0,0,714,1000_AL_.jpg" group-title="VOD ACT & THRILL ZI",Red Sea (2018)
+https://www.googleapis.com/drive/v3/files/1uXpAHkonz8DdtFmIsRKSgHwDvZwUhf70?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/chameleon/title-movie/DP_3554403_TC_1400x2100_DP_3554404_SniperUltimateKill_2000x3000_EST.jpg" group-title="VOD ACT & THRILL ZI",Sniper: Ultimate Kill (2017)
+https://www.googleapis.com/drive/v3/files/1Q_WpWAQlFAp0usPRaDON3hw2pVCQ55CQ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://marruda3.files.wordpress.com/2013/07/the-mechanic-poster.jpg" group-title="VOD ACT & THRILL ZI",The Mechanic (2011)
+https://www.googleapis.com/drive/v3/files/1qbzwlIgVvrPB8lSEZokOZgPYLl96Da9R?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk4MTliYzgtOGI2Ni00N2I5LTg4MjktZTkzZTE0MWVjNGEyXkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_.jpg" group-title="VOD ACT & THRILL ZI",Atone (2019)
+https://www.googleapis.com/drive/v3/files/1e81hEEw0GYAfo13DZxbKtu167nVY9KtC?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Piranha_3DD-402545038-large.jpg" group-title="VOD ACT & THRILL ZI",Piranha 3DD (2012)
+https://www.googleapis.com/drive/v3/files/1f2wjWoKCywXhF_UGVoCEHLdGa_-t8rez?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ejrD1lkCIQX26TO8k4gePsFpcyX.jpg" group-title="VOD ACT & THRILL ZI",The Conjuring I (2013)
+https://www.googleapis.com/drive/v3/files/1vvyJGKoOVTJJ1wLCMGWXppDiQIR6_kw2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTlhZWY0YzAtMDA2Zi00NGVlLThhNzQtYjFjMWI0YjU0Yzg0XkEyXkFqcGdeQXVyNjIzNzM4NzA@._V1_SY1000_CR0,0,745,1000_AL_.jpg" group-title="VOD ACT & THRILL ZI",The Conjuring II (2016)
+https://www.googleapis.com/drive/v3/files/1Cn8HdpYaTdTG4tPhF15yRKvP9wPpEYhl?alt=media&key=AIzaSyBsISIWS81steAUniRuI1oRUTnpvHfEiYc
+
+#EXTINF:-1 tvg-logo="https://asturscore.com/wp-content/uploads/2018/09/The-Nun.jpg" group-title="VOD ACT & THRILL ZI",The Nun (2018)
+https://www.googleapis.com/drive/v3/files/1HVPAiXM6y5_MamcssUsCCD8oULLeUIVh?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Annabelle_film_poster.jpg" group-title="VOD ACT & THRILL ZI",Annabelle (2014)
+https://www.googleapis.com/drive/v3/files/1dNxCGi7O-zTzKSA4iz562o-yA_Qjo9xe?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://images.mymovies.net/images/film/cin/350x522/fid15272.jpg" group-title="VOD ACT & THRILL ZI",Knock Knock (2015)
+https://www.googleapis.com/drive/v3/files/1Yr7y5GyMkEUqdrwHwta7ltJdHmrWimIx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://picfiles.alphacoders.com/101/101501.jpg" group-title="VOD ACT & THRILL ZI",Insidious (2010)
+https://www.googleapis.com/drive/v3/files/1diQTW51YbUGmoz7OBlRbGmN_PYZGGKXJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://www.provoke-online.com/images/All_Articles/Movie/Insidious2/insidious-chapter-2-1.jpg" group-title="VOD ACT & THRILL ZI",Insidious: Chapter 2 (2013)
+https://www.googleapis.com/drive/v3/files/16yIIdPpIG5rOj0QuKLTvwadg7RxEtT7S?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/97/ac/f7/97acf7154c3f4245a5631c259f536a1c.jpg" group-title="VOD ACT & THRILL ZI",Insidious: Chapter 3 (2015)
+https://www.googleapis.com/drive/v3/files/1VVpYJI1U21XVGSS1r59rwEkG5lqRco9r?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/21/bb/79/21bb7903413b0edf53766c1f1af768a1.jpg" group-title="VOD ACT & THRILL ZI",Uncaged (2016)
+https://www.googleapis.com/drive/v3/files/0BzXLuqjUMn5ocnNGcUdNc05Jc00?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/I_Spit_on_Your_Grave_3_poster.jpg" group-title="VOD ACT & THRILL ZI", I Spit on Your Grave 3 : Vengeance is Mine (2015)
+https://www.googleapis.com/drive/v3/files/1vCsh-9QQ9OdrAa84G2zYasx1YHQka_vh?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Resident_evil_ver4.jpg" group-title="VOD ACT & THRILL ZI",Resident Evil (2002)
+https://www.googleapis.com/drive/v3/files/1KF9teWb4lah8R8Ymxy9cejxlnWZ2dbz7?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f7/d3/a4/f7d3a47705e12b3d541dbe0dd9a5e96d.jpg" group-title="VOD ACT & THRILL ZI",Resident Evil 2: Apocalypse (2004)
+https://www.googleapis.com/drive/v3/files/1_CCDBXPWZlUxVeCu-d5XvHWSzcgZWg68?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/ea/RE_Extinction.jpg" group-title="VOD ACT & THRILL ZI",Resident Evil 3: Extinction (2007)
+https://www.googleapis.com/drive/v3/files/1IA5pIFeLePEKf4XU6aIRWnmYrZiLAgmV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://www.petelagi.com/wp-content/uploads/2017/10/Resident-Evil-Afterlife.jpg" group-title="VOD ACT & THRILL ZI",Resident Evil 4: Afterlife (2010)
+https://www.googleapis.com/drive/v3/files/1mjKOc4JZbiIdBNgPW78LIR2wAuxZeket?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://www.scifi-movies.com/images/contenu/data/0003448/affiche-resident-evil-retribution-38.jpg" group-title="VOD ACT & THRILL ZI",Resident Evil 5: Retribution (2012)
+https://www.googleapis.com/drive/v3/files/1p7kmOnytLPFVagLxVpaY7lQ1mVoO9nhB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BMTc0Mzc2OTQ0Ml5BMl5BanBnXkFtZTgwOTQ5MjE4MDI@._V1_.jpg" group-title="VOD ACT & THRILL ZI",Resident Evil: The Final Chapter (2016)
+https://www.googleapis.com/drive/v3/files/1Rqa24AqSvbxm8I7M05CSYHS_K7fUD7KS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BMTg0OTQ0ODY1N15BMl5BanBnXkFtZTgwNjkxNjI4MTI@._V1_.jpg" group-title="VOD ACT & THRILL ZI",Resident Evil: Vendetta (2017)
+https://www.googleapis.com/drive/v3/files/1ZZABalJkN5SkJd5OmhCxya-r75i5lXxa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+
+
+
+
+
+
+
+
+######################################### VOD 2019---2020 ZI #########################################
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzg0NGM2NjAtNmIxOC00MDJmLTg5ZmYtYzM0MTE4NWE2NzlhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg" group-title="VOD 2019---2020 ZI",Tenet (2020)
+https://vodme.orangbiasa.workers.dev/FILM%25202020/T/Tenet%2520(2020)%2520HDRip%2520720p%2520%5BKawanfilm21.icu%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODM4MmRjN2UtMWU5Ny00NTY4LWFjYWEtYmRjMjhjMzMxNmNmXkEyXkFqcGdeQXVyODY5NzkyMjA@._V1_.jpg" group-title="VOD 2019---2020 ZI",Tremors Shriker Island (2020)
+https://dl.dropboxusercontent.com/s/1l4o76vliyqqjup/NB21.Tremors.Shrieker.Island.2020.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQ5OGQ0NjQtNWJmZi00YjgxLTg5NTAtMjc5OTNjZjc0ZTlkXkEyXkFqcGdeQXVyODY5NzkyMjA@._V1_.jpg" group-title="VOD 2019---2020 ZI",Black Water Abyss (2020)
+https://dl.dropboxusercontent.com/s/q7o2we4cc4fskp0/NB21.Black.Water.Abyss.2020.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU4MDdlMTUtOTAyMC00YzQ3LWFhYWQtNDUxNjhiNzM4NzIwXkEyXkFqcGdeQXVyODQ4NjA3Mw@@._V1_.jpg" group-title="VOD 2019---2020 ZI",Welcome to Sudden Death (2020)
+https://dl.dropboxusercontent.com/s/ueqo4sg7eubshwx/NB21.Welcome.to.Sudden.Death.2020.WEBDL.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://cinemags.co.id/wp-content/uploads/2020/09/2067-Poster.jpg" group-title="VOD 2019---2020 ZI",2067 (2020)
+https://dl.dropboxusercontent.com/s/p5b2ozejktophmc/NB21.2067.2020.WEBDL.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/moviesandmania.com/wp-content/uploads/2020/08/The-Owners-movie-film-horror-2020-British-Maisie-Williams-poster.png" group-title="VOD 2019---2020 ZI",The Owner (2020)
+https://dl.dropboxusercontent.com/s/g8k1ebldzyio71e/NB21.The.Owners.2020.WEBDL.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGViYTc1MWQtNDUxOS00ZmZhLWFkOTctYzA4NWU2OTE3M2UwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="VOD 2019---2020 ZI",Magic Camp (2020)
+https://dl.dropboxusercontent.com/s/m2vc0forcx52k7u/NB21.Magic.Camp.2020.WEBDL.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzk1MzM4MjQtYTcxMC00OGQyLWJmYTAtNjEzMWZkODMwOThiXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_SY1000_CR0,0,691,1000_AL_.jpg" group-title="VOD 2019---2020 ZI",Penguin (2020)
+https://dl.dropboxusercontent.com/s/f4pvuw1v9wizlyg/NB21.Penguin.2020.WEBDL.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/The_Sleepover_poster.jpg" group-title="VOD 2019---2020 ZI",The Sleepover (2020)
+https://dl.dropboxusercontent.com/s/v3khy3e104yjrtg/%5B720p%5DThe.Sleepover.2020.NF.WEB-DL%20%5BMELONGFILM.xyz%5D.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIivtyJgL1F6afqpGnqelLZMVjg5e2qFDZps-mrkqKNyYu-zTi" group-title="VOD 2019---2020 ZI",Shark Season (2020)
+https://dl.dropboxusercontent.com/s/ypdbflwhgsqm4mp/NB21.Shark.Season.2020.WEBDL.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFkNTRiMzYtODM2MS00YWQ2LThkNTUtMDE1Y2E2YjAwYTUxXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg" group-title="VOD 2019---2020 ZI",Archive (2020)
+https://dl.dropboxusercontent.com/s/nqigrfs33lj7euk/NB21.Archive.2020.WEBDL.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/Fearless_%282020_film%29.jpg" group-title="VOD 2019---2020 ZI",Fearless (2020)
+https://dl.dropboxusercontent.com/s/y4g267thui9ar8z/NB21.Fearless.2020.WEBDL.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWFkMWVjZTQtNGQzZC00MTIwLWE4YmYtNjk3MTBjMGUxNzk5XkEyXkFqcGdeQXVyNjIwMjMzMzc@._V1_.jpg" group-title="VOD 2019---2020 ZI",Dead Voice (2020)
+https://dl.dropboxusercontent.com/s/8lk42w7nbjm2q4g/NB21.Dead.Voices.2020.WEBDL.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://cdnx2.kincir.com/production/2020-07/192af78a167b229d28707c2db8d7b50fce17da3c.jpg" group-title="VOD 2019---2020 ZI",The Old Guard (2020)
+https://dl.dropboxusercontent.com/s/eofhm4k9iyemq4u/NB21.The.Old.Guard.2020.WEBDL.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/Rqfgk6MEKxYuS7E0L5VbguojTco=/205x0:1015x1080/640x853/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3025666/original/058769100_1579327704-sim_2.jpg" group-title="VOD 2019---2020 ZI",Sebelum Iblis Menjemput (2020)
+https://dl.dropboxusercontent.com/s/asvrn64xtbn8k18/Sebelum%20Iblis%20Menjemput%20-%20Ayat%202%20%282020%29%20720p%20WEBRip%20-%20GEA.mkv?dl=0
+
+#EXTINF:-1 tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2020/07/The-One-and-Only-Ivan-poster-and-images-1-600x889.jpg" group-title="VOD 2019---2020 ZI",The On and Only Ivan (2020)
+https://www.dropbox.com/s/zmv7oegoo0yvmr0/NB21.The.One.and.Only.Ivan.2020.WEBDL.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWUyY2M2M2UtMGI1NC00ZjBmLWI5NDItYjQ1MThjNzgwMjhmXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg" group-title="VOD 2019---2020 ZI",Rogue (2020)
+https://dl.dropboxusercontent.com/s/427xopivlu7x28a/NB21.Rogue.2020.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2020/09/05/film-mulan-live-action-2020-7.jpeg" group-title="VOD 2019---2020 ZI",Mulan (2020)
+https://dl.dropboxusercontent.com/s/tt02k51gjptez2j/NB21.Mulan.2020.WEBDL.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://cdn.collider.com/wp-content/uploads/2020/07/hard-kill-poster-bruce-willis.jpg" group-title="VOD 2019---2020 ZI",Hard Kill (2020)
+https://dl.dropboxusercontent.com/s/bdxirpcanx872n3/NB21.Hard.Kill.2020.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20200504/94880578-266932921151168-5293032393834451191-n-887a4dfbb745ae3fd6956620f8af4430.jpg" group-title="VOD 2019---2020 ZI",Guru - Guru Gokil (2020)
+https://dl.dropboxusercontent.com/s/xlbyt4isej1p26o/NB21.Guru.Guru.Gokil.2020.WEBDL.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzFiYTdiMDktMzJhZi00NzEwLTgxN2UtNDc5OTM5MmVhMjRkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" group-title="VOD 2019---2020 ZI",Amulet (2020)
+https://dl.dropboxusercontent.com/s/p4pjgl5fz5cudlb/NB21.Amulet.2020.WEBDL.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMGQ4YTlmZjctNzhhNi00ZTFiLWE5MDEtYWQ2YTc5NWYxMzYwXkEyXkFqcGdeQXVyMzMzMDQ3MzY@._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="VOD 2019---2020 ZI",Before The Fire (2020)
+https://dl.dropboxusercontent.com/s/xh3z8qdh5cy93qa/NB21.Before.the.Fire.2020.WEBDL.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://i.harperapps.com/hcuk/covers/9780008340070/x800.JPG" group-title="VOD 2019---2020 ZI",The Secret Garden (2020)
+https://dl.dropboxusercontent.com/s/my3umuj94kbm6wp/NB21.The.Secret.Garden.2020.WEBDL.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://mydirtsheet.files.wordpress.com/2020/07/rentalv1_sy1000_cr006741000_al_.jpg" group-title="VOD 2019---2020 ZI",The Rental (2020)
+https://dl.dropboxusercontent.com/s/oym8seby4gc9eyg/NB21.The.Rental.2020.WEBDL.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/original/2020/05/19/56344-film-alive-soompi.jpg" group-title="VOD 2019---2020 ZI",Alive (2020)
+https://dl.dropboxusercontent.com/s/ec2ix1eop9x7o8j/NB21.Alive.2020.WEBDL.mp4?dl=0
+
+#EXTINF:-1 logo="https://cdnx2.kincir.com/production/2020-02/3a05867ff7e7711ec481115edf6084f59c051ef1.jpeg" group-title="VOD 2019---2020 ZI", Birds Of Prey (2020)
+https://dl.dropboxusercontent.com/s/w4s5c12ac2jja24/NB21.Birds.of.Prey.And.the.Fantabulous.Emancipation.of.One.Harley.Quinn.2020.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjlmM2Q2ZWItNzRjMS00NDk0LWEzYTAtNGVhYTFlNWFiZDE2XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg" group-title="VOD 2019---2020 ZI",Enter The Fat Dragon (2020)
+https://dl.dropboxusercontent.com/s/4ip0bt7shoma1bh/NB21.Enter.The.Fat.Dragon.2020.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzM0OGZiZWItYmZiNC00NDgzLTg1MjMtYjM4MWZhOGZhMDUwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="VOD 2019---2020 ZI",Underwater (2020)
+https://dl.dropboxusercontent.com/s/o0rolk7vg9kh37g/NB21.Underwater.2020.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://cdnx2.kincir.com/production/2020-03/609184dceee3a69268b07c10027afead4fdb00e3.jpg" group-title="VOD 2019---2020 ZI",The Invisible Man (2020)
+https://dl.dropboxusercontent.com/s/ouqq5j3tw86s8jh/NB21.The.Invisible.Man.2020.BluRay.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://images.randomhouse.com/cover/700jpg/9780593302187" group-title="VOD 2019---2020 ZI",The Willoughbys (2020)
+https://dl.dropboxusercontent.com/s/hc6s6v1nllduuex/NB21.The.Willoughbys.2020.WEBDL.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg" group-title="VOD 2019---2020 ZI",Blood shoot (2020)
+https://www.googleapis.com/drive/v3/files/1oqkKuMjs5cbBjwGOpt783DzeIlJwHuDz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmFiNTZjMmYtMTcyZS00MGQ5LWEwMDYtMGI5MGJiMjUwMDZhXkEyXkFqcGdeQXVyNzQ3MDQzMA@@._V1_.jpg" group-title="VOD 2019---2020 ZI",Alone (2020)
+http://vodme.orangbiasa.workers.dev/FILM%25202020/A/NB21.Alone.2020.WEBDL.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjg1OTcxMTItOTM1Yy00NTEwLWE0YmItODhjYmJjOTJhMTViXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY1200_CR135,0,630,1200_AL_.jpg" group-title="VOD 2019---2020 ZI",Angel Fallen (2020)
+http://vodme.orangbiasa.workers.dev/FILM%25202020/A/Filmkeren21.com.Angels.Fallen.2020.WEBDL.720p.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzFiODE0ZDUtN2IxNC00OTI5LTg4OWItZTE2MjU4ZTk2NjM5XkEyXkFqcGdeQXVyNDYzODU1ODM@._V1_.jpg" group-title="VOD 2019---2020 ZI",Blood Widow (2020)
+http://vodme.orangbiasa.workers.dev/FILM%25202020/B/NB21.Blood.Widow.2019.WEBDL.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjczZmNiZDktNjAxMy00ZjMzLTg5MmYtMzAxMzAwMDQ1ZGY0XkEyXkFqcGdeQXVyMDE0NjUyNg@@._V1_.jpg" group-title="VOD 2019---2020 ZI",Blood Hound (2020)
+http://vodme.orangbiasa.workers.dev/FILM%25202020/B/NB21.Bloodhound.2020.WEBDL.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJiNzExYjgtYWY5Yy00MGIyLWFjM2MtMzZmYTIyZWFiNGVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="VOD 2019---2020 ZI",Disturbing The Peace (2020)
+http://vodme.orangbiasa.workers.dev/FILM%25202020/D/NB21.Disturbing.the.Peace.2020.BluRay.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmRlODkzNDctYjg3Yy00YjQwLTkyYTMtMTJjM2Q5NWJmMTBhXkEyXkFqcGdeQXVyMjMxMTE2MTQ@._V1_.jpg" group-title="VOD 2019---2020 ZI",Dead Earth (2020)
+http://vodme.orangbiasa.workers.dev/FILM%25202020/D/NB21.Dead.Earth.2020.WEBDL.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTI1YmU4NmItZTc4NC00NzA2LWJiMjYtMmE0Njg5M2U2N2VhXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_.jpg" group-title="VOD 2019---2020 ZI",Deep Blue Sea (2020)
+http://vodme.orangbiasa.workers.dev/FILM%25202020/D/NB21.Deep.Blue.Sea.3.2020.BluRay.mp4
+
+#EXTINF:-1 tvg-logo="https://www.sukasinema.com/wp-content/uploads/2020/02/789987998.jpg" group-title="VOD 2019---2020 ZI",Legend Mortal Kombat (2020)
+http://vodme.orangbiasa.workers.dev/FILM%25202020/M/NB21.Mortal.Kombat.Legends.Scorpions.Revenge.2020.BluRay.mp4
+
+#EXTINF:-1 tvg-logo="https://images.redbox.com/Images/EPC/boxartvertical/209809.jpg" group-title="VOD 2019---2020 ZI",The Host (2020)
+http://vodme.orangbiasa.workers.dev/FILM%25202020/T/NB21.The.Host.2020.WEBDL.mp4
+
+#EXTINF:-1 tvg-logo="https://mybloodyreviews.com/wp-content/uploads/2020/04/93820921_1587135181439980_85118568110227456_o-932x932.jpg" group-title="VOD 2019---2020 ZI",Penance Lane (2020)
+http://vodme.orangbiasa.workers.dev/FILM%25202020/P/NB21.Penance.Lane.2020.WEBDL.mp4
+
+#EXTINF:-1 tvg-logo="https://zenodo.org/api/files/00000000-0000-0000-0000-000000000000/free-peninsula-hd720p-train-to-busan-2-full-movie-hd/logo.jpg" group-title="VOD 2019---2020 ZI",Train To Busan 2 : Peninsula (2020)
+http://vodme.orangbiasa.workers.dev/FILM%25202020/T/NB21.Train.to.Busan.2.Peninsula.2020.WEBDL.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/jLbNOLvKQZbPnImc3UCJXh4jhVn.jpg" group-title="VOD 2019---2020 ZI",The Outpost (2020)
+https://www.googleapis.com/drive/v3/files/1K6sWwxBC7lc209JlyRs-xRYFzmL9GSIq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/fz4H0cuWevyoUOYfGatIhbdzQMw.jpg" group-title="VOD 2019---2020 ZI",Jungle Beat (2020)
+https://www.googleapis.com/drive/v3/files/1XxKrdIxsTr_pwDOfubN6k_Qm-ZTCYDwU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/The_Rising_Hawk_poster.jpg/220px-The_Rising_Hawk_poster.jpg" group-title="VOD 2019---2020 ZI",The Rising Hawk (2020)
+https://www.googleapis.com/drive/v3/files/1KZNq-7zm9Ro4u--LTjjol3o79B0VCsKz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/rVKK2DcZy5IecrSbLZVxT4ch0Hw.jpg" group-title="VOD 2019---2020 ZI",Fast and Fierce Death Race (2020)
+https://www.googleapis.com/drive/v3/files/1V8iXTgB67q96GvCsFrhrzgAuCs6UwyAN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/i8uESuTk9BmeKzgP1sBIqBYsKBQ.jpg" group-title="VOD 2019---2020 ZI",Funhouse (2019)
+https://www.googleapis.com/drive/v3/files/1oREhIoeK-KehSn4g0NGzMDSwhb1n-IGh?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BMTQwNjMyYzAtZmQ5MS00NDk3LThmY2UtNjBlMzg3NTU2YzNjXkEyXkFqcGdeQXVyNDQ3NDMxOTM@._V1_UY1200_CR88,0,630,1200_AL_.jpg" group-title="VOD 2019---2020 ZI", The Tent (2020)
+http://vodme.orangbiasa.workers.dev/FILM%25202020/T/NB21.The.Tent.2020.WEBDL.mp4
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BZDE2MWE2NzktNmUyYi00ZTdkLTk4NDktMjk1ZDFlZmJiMzYxXkEyXkFqcGdeQXVyMTY4NzI0Mzc@._V1_.jpg" group-title="VOD 2019---2020 ZI",The Clearing (2020)
+http://vodme.orangbiasa.workers.dev/FILM%25202020/T/NB21.The.Clearing.2020.WEBDL.mp4
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BZWE4ZTg0YjYtN2NiOS00ZWExLWE2MjItOTVlMDkxYWUwZGQ0XkEyXkFqcGdeQXVyMjM4MTU4NjQ@._V1_.jpg" group-title="VOD 2019---2020 ZI",The Candy Witch (2020)
+http://vodme.orangbiasa.workers.dev/FILM%25202020/T/NB21.The.Candy.Witch.2020.WEBDL.mp4
+
+#EXTINF:-1 logo="https://i.imgur.com/r2D8W4f.jpg" group-title="VOD 2019---2020 ZI", Sniper : Assassin's End (2020)
+http://vodme.orangbiasa.workers.dev/FILM%25202020/S/NB21.Sniper.Assassins.End.2020.BluRay.mp4
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BMTE1ZDVjZDgtNGY2NC00MGYwLWJkZmMtOWIxYjM2YjNlZTk1XkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_.jpg" group-title="VOD 2019---2020 ZI", Hacked (2020)
+http://vodme.orangbiasa.workers.dev/FILM%25202020/H/Kawanfilm21.org.Hacked.2020.WEBDL.720p-Bioskopgratis21.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTM5YWZiMzQtNDQxZS00ODI0LWJjNTQtZmQ3OWU3Njg4NWYyXkEyXkFqcGdeQXVyNzc4NTU3Njg@._V1_.jpg" group-title="VOD 2019---2020 ZI",Scoob! (2020)
+http://vodme.orangbiasa.workers.dev/FILM%25202020/S/720p.www.a.pe.hu.Scoob.2020.BluRay.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjA2MjI5OWMtNWVlNi00MTViLTg2MjktOTExMmExYWFjZDczXkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="VOD 2019---2020 ZI",The Legion (2020)
+http://vodme.orangbiasa.workers.dev/FILM%25202020/T/NB21.The.Legion.2020.WEBDL.mp4
+
+#EXTINF:-1 tvg-logo="https://a.wattpad.com/cover/210748112-352-k246683.jpg" group-title="VOD 2019---2020 ZI",Dolittle (2020)
+http://vodme.orangbiasa.workers.dev/FILM%25202020/D/NB21.Dolittle.2020.BluRay.mp4
+
+#EXTINF:-1 tvg-logo="https://cinemaemas1.com/wp-content/uploads/2020/03/gItrnbEbMBbUrdIkFz8kgS2gkt-152x228.jpg" group-title="VOD 2019---2020 ZI",The Last Thing He Wanted (2020)
+http://vodme.orangbiasa.workers.dev/FILM%25202020/T/NB21.The.Last.Thing.He.Wanted.2020.WEBDL.mp4
+
+#EXTINF:-1 logo="https://1.bp.blogspot.com/-ayAnO96eMxg/Xl_yYA1E8jI/AAAAAAAAbtQ/wnrV0-fVcH0ZxmTRudqH8MkVkZbycROagCLcBGAsYHQ/s1600/The_Closet_2020-TP.jpg" group-title="VOD 2019---2020 ZI", The Closet (2020)
+http://vodme.orangbiasa.workers.dev/FILM%25202020/T/NB21.The.Closet.2020.BluRay.mp4
+
+#EXTINF:-1 logo="https://images-na.ssl-images-amazon.com/images/I/81RMZMOYOjL._RI_.jpg" group-title="VOD 2019---2020 ZI", Downhill (2020) 
+http://vodme.orangbiasa.workers.dev/FILM%25202020/D/NB21.Downhill.2020.BluRay.mp4
+
+#EXTINF:-1 logo="https://www.mountaintimes.info/wp-content/uploads/2020/02/Movie-Diary-_-Fantasy-Island-scaled.jpg" group-title="VOD 2019---2020 ZI", Fantasy Island (2020)
+http://vodme.orangbiasa.workers.dev/FILM%25202020/F/NB21.Fantasy.Island.2020.UNRATED.BluRay.mp4
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BOTIyYWJjZDctODY4OC00NWExLWE2NTktZmY0MWY2YWZjMWIxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="VOD 2019---2020 ZI", Gretel & Hansel (2020)
+http://vodme.orangbiasa.workers.dev/FILM%25202020/G/NB21.Gretel.and.Hansel.2020.BluRay.mp4
+
+#EXTINF:-1 logo="https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/title-key-art/badboysforlife_onesheet_1400x2100_sphe.png" group-title="VOD 2019---2020 ZI", Bad Boys for Life (2020)
+http://vodme.orangbiasa.workers.dev/FILM%25202020/B/NB21.Bad.Boys.For.Life.2020.BluRay.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg" group-title="VOD 2019---2020 ZI",Extraction (2020)
+http://vodme.orangbiasa.workers.dev/FILM%2520BARAT/E/NB21.Extraction.2020.WEBDL.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2020/03/Superman-Red-SOn-blu-ray-600x760.jpg" group-title="VOD 2019---2020 ZI",Superman: Red Son (2020) 
+http://vodme.orangbiasa.workers.dev/FILM%25202020/S/NB21.Superman.Red.Son.2020.BluRay.mp4
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/streamxxi.org/wp-content/uploads/2020/03/Altered-Carbon-Resleeved-2020.jpg" group-title="VOD 2019---2020 ZI",Altered Carbon: Resleeved (2020) 
+https://www.googleapis.com/drive/v3/files/1PGYYfTYgBYjQ485uIuKSa1jXj_pP3lvT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://ecs7.tokopedia.net/img/cache/700/product-1/2019/12/13/2870782/2870782_e55db9a7-bfd1-4b6b-8331-287bb066e58d_736_736.jpg" group-title="VOD 2019---2020 ZI",Hard Night Falling (2019)
+https://www.googleapis.com/drive/v3/files/12fMzapjNgD28zM9YtXer2eIjJMUG6eA4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://mamangreview.in/uploads/images/image_750x_5d7715df2cb8f.jpg" group-title="VOD 2019---2020 ZI", Exit (2019)
+https://www.googleapis.com/drive/v3/files/16qa-74lWKb5m6lmYk3_llQ-NcYQun5wN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://kid101.com/wp-content/uploads/2019/07/Movies-on-the-Lawn-How-to-Train-Your-Dragon-The-Hidden-World.jpg" group-title="VOD 2019---2020 ZI", How to Train Your Dragon: The Hidden World (2019)
+https://www.googleapis.com/drive/v3/files/1lQgCuTtSDEypDC017MvcvBioAALgGF9M?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 logo="https://i.pinimg.com/originals/62/15/4e/62154ea247c9572e73bce641ffe0bf4e.jpg" group-title="VOD 2019---2020 ZI",Manikarnika: The Queen of Jhansi (2019)
+https://www.googleapis.com/drive/v3/files/1tJOPA3WwqYxwr9xZMD81hbMM7iInpsS8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://www.citymagz.net/wp-content/uploads/sites/2/2019/12/image-25.png" group-title="VOD 2019---2020 ZI",Ip Man 4: The Finale (2019)
+https://www.googleapis.com/drive/v3/files/1h-FGnNEEw5d5mjuB073xOP0NK3cOKgux?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/streamxxi.org/wp-content/uploads/2020/03/Star-Wars.jpg" group-title="VOD 2019---2020 ZI",Star Wars: Episode IX – The Rise of Skywalker (2019) 
+https://www.googleapis.com/drive/v3/files/1awwIOTTLn1QNaPZJxqq_nntfMwy7Rwpg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/streamxxi.org/wp-content/uploads/2020/03/1-11.jpg" group-title="VOD 2019---2020 ZI",Bigil (2019)
+https://www.googleapis.com/drive/v3/files/1cSxWTg3tyMf5DB5uDb1tM2kWAbjhwNfw?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://bollyspice.com/wp-content/uploads/2019/08/6AC7C4E3-41FC-4D05-BFC7-D487084132B7.jpeg" group-title="VOD 2019---2020 ZI",Batla House (2019)
+https://www.googleapis.com/drive/v3/files/1Wle6ar-RMHaTHqHjgDiU2XQPHLVrnXwg?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Charlie%27s_Angels_%28Official_2019_Film_Poster%29.png" group-title="VOD 2019---2020 ZI",Charlie’s Angels (2019)
+https://www.googleapis.com/drive/v3/files/17M5myQS7R_Wn9CEPBvr-OpLRuFQ7Qbsk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://korean-drama-list.com/wp-content/uploads/2019/11/The-Divine-Move-2.jpg" group-title="VOD 2019---2020 ZI",The Divine Move 2: The Wrathful (2019)
+https://www.googleapis.com/drive/v3/files/1vbNWnRccHNAf0-wOj1Lr_hA5aenVEP6t?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://static.toiimg.com/photo/msid-72887196/72887196.jpg" group-title="VOD 2019---2020 ZI",Dabangg 3 (2019)
+https://www.googleapis.com/drive/v3/files/1JOH6SZK4p0KNjap3wleV7TkRcGonKGZS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1577167032/uxo1ff1v9w2rauobtace.png" group-title="VOD 2019---2020 ZI",Spies in Disguise (2019)
+https://www.googleapis.com/drive/v3/files/1xOoAJBw15iDgmU-P0VCdp9Kf-ryhFOUo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/0e/1d/0e/0e1d0ecad3dcb22077fa9274e4f3627f.png" group-title="VOD 2019---2020 ZI",The Climbers (2019)
+https://www.googleapis.com/drive/v3/files/1WfhtbRe9zsHQ9GuWVGM3dXdqopGgg6i7?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/6underground.jpg" group-title="VOD 2019---2020 ZI",6 Underground (2019)
+https://www.googleapis.com/drive/v3/files/1mZYYYyXZtpSDd3q_gAJy9Pd2UkC6W3GM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-pP7-Qygmm_A/XQpM6LvGzMI/AAAAAAAABUQ/jdZ6gusFnXcSWT3sF9sgHjMY5rRznkdVgCLcBGAs/s320/64350078_1381579678646611_7065780853338537984_n.jpg" group-title="VOD 2019---2020 ZI",The Great Sage Sun Wukong (2019)
+https://www.googleapis.com/drive/v3/files/11fQi4mtS5ZrCbAuLQwjCX_jEOec2_MMW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
