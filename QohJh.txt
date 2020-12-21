@@ -1,0 +1,276 @@
+# simpan.cc hanya menyediakan tempat untuk menyimpan konten playlist.
+# Melanggar hak cipta kamu? Kirim email ke nanank@macan.live untuk menghilangkannya.
+# Infringing your rights? Send an email to nanank@macan.live to remove it.
+
+
+
+
+
+
+###############################LOKAL RESOLUSI ZI#####################
+#EXTINF:-1 tvg-id="indosiar" tvg-name="Indosiar.MACAN" group-title="LOKAL RESOLUSI ZI" tvg-logo="https://www.useetv.com/pimages/tvposter/useeInfo.png", Ruang Terampil
+http://harber.xyz/stream/usee-useeinfo-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-id="indosiar" tvg-name="Indosiar.MACAN" group-title="LOKAL RESOLUSI ZI" tvg-logo="https://www.taytb.com/assets/taytbfest/dist/img/sponsor/usee.png", Usee Photo
+http://harber.xyz/stream/usee-useephoto-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-id="indosiar" tvg-name="Indosiar.MACAN" group-title="LOKAL RESOLUSI ZI" tvg-logo="https://www.useetv.com/pimages/tvposter/useeprime.png", Usee Prime
+http://harber.xyz/stream/usee-useeprime-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-id="indosiar" tvg-name="Indosiar.MACAN" group-title="LOKAL RESOLUSI ZI" tvg-logo="https://cdn.macan.tv/img/indosiar.png", INDOSIAR (Set Resolusi)
+http://orangbiasa.xyz/localrad/local/orangbiasa-205.m3u8
+
+#EXTINF:-1 tvg-id="mnctv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/NZy4IEZXngGp5YlqpIQOWM3pH1U=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="LOKAL RESOLUSI ZI",MNC TV  (Set Resolusi)
+http://orangbiasa.xyz/localrad/local/orangbiasa-870.m3u8
+
+#EXTINF:-1 tvg-id="mnctv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/NZy4IEZXngGp5YlqpIQOWM3pH1U=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="LOKAL RESOLUSI ZI", MNC ++
+http://zichannels.my.id/lokal/mnctv.m3u8
+
+#EXTINF:-1 tvg-id="antv" tvg-name="ANTV.MACAN" group-title="LOKAL RESOLUSI ZI" tvg-logo="https://cdn.macan.tv/img/antv.png", ANTV
+http://210.210.155.35/session/cd7ec4e2-d9f0-11ea-b1f3-c81f66f89318/qwr9ew/s/s07/01.m3u8
+
+#EXTINF:-1 tvg-id="sctv" tvg-name="sctv" group-title="LOKAL RESOLUSI ZI" tvg-logo="https://cdn.macan.tv/img/sctv.png", SCTV (Set Resolusi)
+http://orangbiasa.xyz/localrad/local/orangbiasa-204.m3u8
+
+#EXTINF:-1 tvg-id="rcti" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/KQVmvZlGolCgOATiH13nww_hX1I=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-8458c0.jpg" group-title="LOKAL RESOLUSI ZI",RCTI  (Set Resolusi)
+http://orangbiasa.xyz/localrad/local/orangbiasa-665.m3u8
+
+#EXTINF:-1 tvg-id="rcti" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/KQVmvZlGolCgOATiH13nww_hX1I=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-8458c0.jpg" group-title="LOKAL RESOLUSI ZI",RCTI ++
+http://zichannels.my.id/lokal/rcti.m3u8
+
+#EXTINF:-1 tvg-id="gtv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/YR-pUEut4i7WADsTuUTe3XIfnu8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="LOKAL RESOLUSI ZI",GTV  (Set Resolusi)
+http://orangbiasa.xyz/localrad/local/orangbiasa-778.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="LOKAL RESOLUSI ZI",GTV 
+http://zichannels.my.id/lokal/globaltvhd.m3u8
+
+#EXTINF:-1 tvg-id="trans7" tvg-name="Trans7.MACAN"  group-title="LOKAL RESOLUSI ZI" tvg-logo="https://cdn.macan.tv/img/trans7.png", TRANS 7 (Set Resolusi)
+http://orangbiasa.xyz/localrad/local/orangbiasa-734.m3u8
+
+#EXTINF:-1 tvg-id="transtv" tvg-name="Transtv.MACAN" group-title="LOKAL RESOLUSI ZI" tvg-logo="https://cdn.macan.tv/img/transtv.png", TRANS TV (Set Resolusi)
+http://orangbiasa.xyz/localrad/local/orangbiasa-733.m3u8
+
+#EXTINF:-1 tvg-id="net" tvg-id="NetTV.MACAN" tvg-name="NetTV.MACAN" group-title="LOKAL RESOLUSI ZI" tvg-logo="https://cdn.macan.tv/img/net.png", NET (Set Resolusi)
+http://orangbiasa.xyz/localrad/local/orangbiasa-875.m3u8
+
+#EXTINF:-1 tvg-id="net" tvg-id="NetTV.MACAN" tvg-name="NetTV.MACAN" group-title="LOKAL RESOLUSI ZI" tvg-logo="https://cdn.macan.tv/img/net.png", NET FB
+http://harber.xyz/stream/yt-nettv-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-id="rtv" tvg-id="RTV.MACAN" tvg-name="RTV.MACAN" group-title="LOKAL RESOLUSI ZI" tvg-logo="https://cdn.macan.tv/img/rtv.png", RTV (Set Resolusi)
+http://orangbiasa.xyz/localrad/local/orangbiasa-1561.m3u8
+
+#EXTINF:-1 tvg-id="rtv" tvg-id="AJWATV.MACAN" tvg-name="RTV.MACAN" group-title="LOKAL RESOLUSI ZI" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/S5GpQ_y7690qBmxtv-doxWLlyv8=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-9e9e9e.jpg", Ajwa TV (Set Resolusi)
+http://orangbiasa.xyz/localrad/local/orangbiasa-7464.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8P6g5XNGCjXrde94MaCMuZGPnTo=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/ochannel-94c811.jpg" group-title="LOKAL RESOLUSI ZI",OCHANNEL  (Set Resolusi)
+http://orangbiasa.xyz/localrad/local/orangbiasa-206.m3u8
+
+#EXTINF:-1 tvg-id="tvone" tvg-id="TVOne.MACAN" tvg-name="TVOne.MACAN" group-title="LOKAL RESOLUSI ZI" tvg-logo="https://cdn.macan.tv/img/tvone.png", TVOne 
+http://210.210.155.35/session/67f99374-3c72-11eb-a112-b82a72d63267/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1 tvg-id="metrotv" transtvtvg-id="MetroTV.MACAN" tvg-name="MetroTV.MACAN" group-title="LOKAL RESOLUSI ZI" tvg-logo="https://cdn.macan.tv/img/metrotv.png", METRO TV (Set Resolusi)
+http://orangbiasa.xyz/localrad/local/orangbiasa-777.m3u8
+
+#EXTINF:-1 tvg-id="kompastv" tvg-id="KompasTv.MACAN" tvg-name="KompasTv.MACAN" group-title="LOKAL RESOLUSI ZI" tvg-logo="https://cdn.macan.tv/img/kompastv.png", KOMPAS TV (Set Resolusi)
+http://orangbiasa.xyz/localrad/local/orangbiasa-874.m3u8
+
+#EXTINF:-1 tvg-id="beritasatu" tvg-name="BeritaSatu.MACAN" group-title="LOKAL RESOLUSI ZI" tvg-logo="https://cdn.macan.tv/img/beritasatu.png", BERITA SATU (Set Resolusi)
+http://orangbiasa.xyz/localrad/local/orangbiasa-6165.m3u8
+
+#EXTINF:-1 tvg-id="inews" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zkFKLMQEXbJropYF7sh7D33fVaM=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg" group-title="LOKAL RESOLUSI ZI",INEWS  (Set Resolusi)
+http://orangbiasa.xyz/localrad/local/orangbiasa-5409.m3u8
+
+#EXTINF:-1 tvg-id="tvri" tvg-name="TVRI.MACAN" group-title="LOKAL RESOLUSI ZI" tvg-logo="https://cdn.macan.tv/img/tvri.png", TVRI Nasional (Set Resolusi)
+http://orangbiasa.xyz/localrad/local/orangbiasa-6441.m3u8
+
+#EXTINF:-1 tvg-id="tvri" tvg-name="TVRI.MACAN" group-title="LOKAL RESOLUSI ZI" tvg-logo="https://cdn.macan.tv/img/tvedukasi.png", TV Edukasi (Set Resolusi)
+http://orangbiasa.xyz/localrad/local/orangbiasa-6838.m3u8
+
+#EXTINF:-1 tvg-id="jaktv" tvg-name="JakTV.MACAN" group-title="LOKAL RESOLUSI ZI" tvg-logo="https://cdn.macan.tv/img/jaktv.png", JAKTV (Set Resolusi)
+http://orangbiasa.xyz/localrad/local/orangbiasa-5415.m3u8
+
+#EXTINF:-1 tvg-id="daaitv" tvg-name="DaaiTv.MACAN" group-title="LOKAL RESOLUSI ZI" tvg-logo="https://cdn.macan.tv/img/daaitv.png", DAAI TV (Set Resolusi)
+http://orangbiasa.xyz/localrad/local/orangbiasa-6482.m3u8
+
+#EXTINF:-1 tvg-id="daaitv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5XlceHllfrw1piv1vHoG-oXZ-TQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-tv-stream-724fc3.jpg" group-title="LOKAL RESOLUSI ZI",DW ENGLISH TV  (Set Resolusi)
+http://orangbiasa.xyz/localrad/local/orangbiasa-5075.m3u8
+
+#EXTINF:-1 tvg-id="mytv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/mzCjJY7TqiT-BYLhrRRDcuSGMCk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6711/mytv-tv-stream-a36d9f.jpg" group-title="LOKAL RESOLUSI ZI",MY TV  (Set Resolusi)
+http://orangbiasa.xyz/localrad/local/orangbiasa-6711.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/aHbjE9dQtOi83nt0ic86GUkxHAk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6898/u-channel-tv-cd4f34.jpg" group-title="LOKAL RESOLUSI ZI",U-CHANNEL TV  (Set Resolusi)
+http://orangbiasa.xyz/localrad/local/orangbiasa-6898.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/_m2xtkxPDgwsAUz_kdSob4klAJU=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6853/reformed-21-tv-4823b3.jpg" group-title="LOKAL RESOLUSI ZI",REFORMED 21 (Set Resolusi)
+http://orangbiasa.xyz/localrad/local/orangbiasa-6853.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2kI2TwwD8z9v5QAmscAVwSUyVDo=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="LOKAL RESOLUSI ZI",ALQURAN KAREEM TV  (Set Resolusi)
+http://orangbiasa.xyz/localrad/local/orangbiasa-6852.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sakti.tv/wp-content/uploads/2019/07/logo-saktitv.png" group-title="LOKAL RESOLUSI ZI",SAKTI TV
+https://v2.siar.us/saktitv/livestream/chunks.m3u8
+
+
+
+
+##############################PREMIER VIDIO ZI############################################################
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ny69xkEO9vY0YzBTvaHal-QJz3Y=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg" group-title="PREMIER VIDIO ZI",Citra Bioskop (SET RESOLUSI)
+http://harber.xyz/stream/vidio-citrabioskop-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/7a_-oJ2Hu-gm3jlEOuM59SAZ6gk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg" group-title="PREMIER VIDIO ZI",Citra Drama (SET RESOLUSI)
+http://harber.xyz/stream/vidio-citra-drama-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/7WrwqlqsVdAuHIv0Qb8SvnSapxE=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6678/citra-muslim-68ac64.jpg" group-title="PREMIER VIDIO ZI",Citra Muslim (SET RESOLUSI)
+http://harber.xyz/stream/vidio-citra-muslim-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/4DV1wiaMJ2m0bKHyNL9TTtWd6uA=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6402/citra-entertainment-271b80.jpg" group-title="PREMIER VIDIO ZI",Citra Entertainment (SET RESOLUSI)
+http://harber.xyz/stream/vidio-citra-entertainment-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/KgwuD2k8bVn_V8IjmO_gD1SbZ_8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6587/citra-dangdut-0ed971.jpg" group-title="PREMIER VIDIO ZI",Citra Dangdut (SET RESOLUSI)
+http://harber.xyz/stream/usee-citradangdut-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/91G4nHmeXrdL7241HMCuwa3H0ys=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-cd5af1.jpg" group-title="PREMIER VIDIO ZI",Champions TV 1(SET RESOLUSI)
+http://harber.xyz/stream/vidio-championtv1-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/yHOE8UUTg1klF8mxo5r6ci8-eAM=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-e0b0b4.jpg" group-title="PREMIER VIDIO ZI",Champions TV 2 (SET RESOLUSI)
+http://harber.xyz/stream/vidio-championtv2-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/QNk3qZalZ6qg1b76lhgXAvuW7uc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-952d29.jpg" group-title="PREMIER VIDIO ZI",Champions TV 3 (SET RESOLUSI)
+http://harber.xyz/stream/vidio-championtv3-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8h2hKI_PhCsyw4ctWvlYOfok290=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6399/zee-bioskop-bdb0e4.jpg" group-title="PREMIER VIDIO ZI",Zee Bioskop (SET RESOLUSI)
+http://harber.xyz/stream/vidio-zee-bioskop-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/MC87ZLM7Xz-iN1oZR7UcsFAfAos=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6747/zing-74f73f.jpg" group-title="PREMIER VIDIO ZI",Zing (SET RESOLUSI)
+http://harber.xyz/stream/vidio-zing-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZfuG-FenadA9bxFUD2idSpWX9NE=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-e11bc8.jpg" group-title="PREMIER VIDIO ZI",tVN (SET RESOLUSI)
+http://harber.xyz/stream/vidio-tvn-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/7Apc2iU4ewvRELJ0Ia5XcJlcTrQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6411/news-asia-632248.jpg" group-title="PREMIER VIDIO ZI",CNA (SET RESOLUSI)
+http://harber.xyz/stream/vidio-cna-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/BVhqkDFbo3NIax3HLkirBxiwcZ4=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6412/euro-news-bb7a5d.jpg" group-title="PREMIER VIDIO ZI",Euronews (SET RESOLUSI)
+http://harber.xyz/stream/vidio-euro-news-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/eVef-IYQKnDywKoVTrCx0NlKnSQ=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6549/da-vinci-ef222f.jpg" group-title="PREMIER VIDIO ZI",Davinci (SET RESOLUSI)
+http://harber.xyz/stream/vidio-davinci-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0MYPu13tEdYGCeGdKCQGgjUFqgw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6397/horee-5c45d3.jpg" group-title="PREMIER VIDIO ZI",Horee (SET RESOLUSI)
+http://harber.xyz/stream/vidio-horee-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/RxC4SKm5HuRFhkXvbjZaRBcWN4U=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6533/zoomoo-7fdb7d.jpg" group-title="PREMIER VIDIO ZI",Zoomoo (SET RESOLUSI)
+http://harber.xyz/stream/vidio-zoomoo-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn-production-thumbor-vidio.akamaized.net/ZDb7E67e_nevsFrpk4tze7okaNQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7052/hip-hip-horee-f5d7ab.jpg" group-title="PREMIER VIDIO ZI",Hip-Hip Hore (SET RESOLUSI)
+http://harber.xyz/stream/vidio-hiphip-horee-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/XhYxbEWmxJkcTbCJD52CjaUImWI=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6550/smithsonian-7073ec.jpg" group-title="PREMIER VIDIO ZI",Smithsonian (SET RESOLUSI)
+http://harber.xyz/stream/vidio-smithsonian-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/bCdI2Yr6-vB0P5b_rAxaLR8o9tQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6635/love-nature-29f1c8.jpg" group-title="PREMIER VIDIO ZI",Love Nature (SET RESOLUSI)
+http://harber.xyz/stream/vidio-love-nature-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/KSWte0j4G-QXpmtRjqlKbVGNe9Q=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-39130f.jpg" group-title="PREMIER VIDIO ZI",Aljazeera (SET RESOLUSI)
+http://harber.xyz/stream/vidio-aljazeera-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/-044RkOw_AuXf67AZjDAaqrzAhQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-c78e38.jpg" group-title="PREMIER VIDIO ZI",Arirang (SET RESOLUSI)
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/EqAs3KjTgzl5dK8l7vFl1e8tnfU=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6507/fashiontv-l-original-77d1e7.jpg" group-title="PREMIER VIDIO ZI",Fashion TV Original (SET RESOLUSI)
+https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive_v3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/-Y3Vfxz2K5FO41SShqSrQAmrTt4=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6511/fashion-tv-global-c60fdc.jpg" group-title="PREMIER VIDIO ZI",Fashion TV Global (SET RESOLUSI)
+https://production-premium-fashiontv-vidio.akamaized.net/fashion/_definst_/ftv_pg13_adaptive_v3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/IWeeyEQvYi6YlgrUJ2G6Oy3UTz4=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6504/fashion-tv-midnight-secrets-410bd7.jpg" group-title="PREMIER VIDIO ZI",Fashion TV Midnight (SET RESOLUSI)
+https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive_v3.smil/playlist.m3u8
+
+
+
+
+#########################################RADIO ZI######################################
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/7Wcpfg43IV9VRei_pOBaPQC9W4A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7184/ardan-radio-db4b07.jpg" group-title="RADIO ZI",Ardan Radio
+http://orangbiasa.xyz/localrad/radio/orangbiasa-7184.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/C4XRM0f71fQ2TOtnvliqg1z-C4k=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7091/bahana-fm-a72d38.jpg" group-title="RADIO ZI",Bahana FM
+http://orangbiasa.xyz/localrad/radio/orangbiasa-7091.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LitEXxnoBCWSW30AOid09ISm3lg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7054/brava-audio-98ab26.jpg" group-title="RADIO ZI",Brava Radio
+http://orangbiasa.xyz/localrad/radio/orangbiasa-7054.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/d1KbG3f4kAkm9rZLYySgSITAow0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7056/cosmopolitan-df0bea.jpg" group-title="RADIO ZI",Cosmopolitan FM
+http://orangbiasa.xyz/localrad/radio/orangbiasa-7056.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/dJo5PONM3DRF25nLwJsLbrjSTuQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7242/dahlia-fm-045618.jpg" group-title="RADIO ZI",Dahlia FM
+http://orangbiasa.xyz/localrad/radio/orangbiasa-7242.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/xuXY5HKXC2SnrsFndIVcddP2vSA=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7092/delta-fm-8a4ed5.jpg" group-title="RADIO ZI",Delta FM
+http://orangbiasa.xyz/localrad/radio/orangbiasa-7092.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9YyEdrmwSbk99DX70-U1A1dEJWw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7169/test-elgangga-241624.jpg" group-title="RADIO ZI",Elgangga
+http://orangbiasa.xyz/localrad/radio/orangbiasa-7169.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/dLo75Dmfm5-P51eUWBxOiz7PNHs=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7170/test-elmitra-284cd6.jpg" group-title="RADIO ZI",Elmitra
+http://orangbiasa.xyz/localrad/radio/orangbiasa-7170.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8xCICG-EDMjZwL5oKNzUILxrKpw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7166/elshinta-90-fm-502fc0.jpg" group-title="RADIO ZI",Elshinta FM
+http://orangbiasa.xyz/localrad/radio/orangbiasa-7166.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Yt8GqA5gxaFe-Q504oVwnIfccTQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7130/female-fm-6085d4.jpg" group-title="RADIO ZI",Female FM
+http://orangbiasa.xyz/localrad/radio/orangbiasa-7130.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/dpKRalVmGXuqHQt4Xs_uI73Qwzw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7284/gajahmada-b307da.jpg" group-title="RADIO ZI",Gajahmada
+http://orangbiasa.xyz/localrad/radio/orangbiasa-7284.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/GB6NrbADuqqB-9eAQCNcy6IVd-s=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7216/test-geronimo-428e77.jpg" group-title="RADIO ZI",Geronimo
+http://orangbiasa.xyz/localrad/radio/orangbiasa-7216.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/YV-jEkG__y67RcChhsXUDK99VM4=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7053/hardrock-725b7c.jpg" group-title="RADIO ZI",Hardrock FM
+http://orangbiasa.xyz/localrad/radio/orangbiasa-7053.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jPSwS6rN9I1X9BqghRJTWN9Ta7k=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7281/imelda-fm-62c9f4.jpg" group-title="RADIO ZI",Imelda FM
+http://orangbiasa.xyz/localrad/radio/orangbiasa-7281.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/NPkM5YqQkq503ZayV0nkVvqbOw0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7057/iradio-fm-5ae133.jpg" group-title="RADIO ZI",I-radio FM
+http://orangbiasa.xyz/localrad/radio/orangbiasa-7057.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/fmqESC8uljOlgFZz6JxmjtYoVk0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7188/mgtradio-3f010f.jpg" group-title="RADIO ZI",Mgtradio
+http://orangbiasa.xyz/localrad/radio/orangbiasa-7188.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gRR6qAcBS3MtrdjyEn1d0fTMb5Q=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7004/prambors-on-air-497a58.jpg" group-title="RADIO ZI",Prambors
+http://orangbiasa.xyz/localrad/radio/orangbiasa-7004.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8usx95AOsZ0POriTOsdSHHI__L0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7297/test-radio-cakra-41a97a.jpg" group-title="RADIO ZI",Radio Cakra
+http://orangbiasa.xyz/localrad/radio/orangbiasa-7297.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/KgJ6b4lRGVt24lH4j7qS98CKL4U=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7218/sushi-radio-1e2940.jpg" group-title="RADIO ZI",Sushi Radio
+http://orangbiasa.xyz/localrad/radio/orangbiasa-7218.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/NIuoPKwHFGtNGEc715_Ww3P4_5g=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7248/swaragama-fm-jogja-69421e.jpg" group-title="RADIO ZI",Swaragama FM Jogja
+http://orangbiasa.xyz/localrad/radio/orangbiasa-7248.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/xjEaP8UM1tlal5tY2NOcdyyiJv0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7283/swara-semarang-579dc0.jpg" group-title="RADIO ZI",Swara Semarang
+http://orangbiasa.xyz/localrad/radio/orangbiasa-7283.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/tE3G1jvh_Ujp_Tqxuk-vRPxb1-8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7055/trax-radio-fm-f696e0.jpg" group-title="RADIO ZI",Trax FM
+http://orangbiasa.xyz/localrad/radio/orangbiasa-7055.m3u8
+
+
+#EXTINF:-1 group-title="LOKAL RESOLUSI ZI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Approve_icon.svg/1024px-Approve_icon.svg.png", >>> LOKAL RESOLUSI ZI <<<
+http://ww.coba23456.com
